@@ -10,3 +10,9 @@ The main element of a page.
 ## Children
 - [Head](head.md)
 - [Body](body.md)
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full    | Full     | Full | Full |

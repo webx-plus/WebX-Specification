@@ -14,3 +14,9 @@ The head element of a page which contains metadata about the site.
 - [Title](title.md)
 - [Meta](meta.md)
 - [Link](link.md)
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full    | Full     | Full | Full |

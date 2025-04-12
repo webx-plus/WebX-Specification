@@ -17,3 +17,9 @@ A option inside a select.
 
 ## Content
 Text
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full    | Full     | Full | Full |

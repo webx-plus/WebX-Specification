@@ -13,3 +13,9 @@ A paragraph in the site.
 
 ## Content
 Text
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full    | Full     | Full | Full |

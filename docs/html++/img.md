@@ -14,3 +14,11 @@ Self-closing.
 
 ## Content
 None
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full *  | Full     | Full | Full |
+
+*supported Napture has issues with loading images on windows

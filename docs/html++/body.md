@@ -23,3 +23,9 @@ The body element of a page which contains the main content about the site.
 - [Li](li.md)
 - [Img](img.md)
 - [Script](script.md)
+
+## Support
+
+|           | Napture | Bussinga | YAB  | WXV  |
+| --------- | ------- | -------- | ---- | ---- |
+| supported | Full    | Full     | Full | Full |
