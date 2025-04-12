@@ -17,7 +17,7 @@ The new lua api that is more powerful easy to work with.
 
 ## Suport
 | Globals  | YAB  |
-| :------- | :--: |
+| -------- | ---- |
 | get      | Full |
 | getId    | Full |
 | getClass | Full |
