@@ -2,7 +2,7 @@
 The programming language of WebX.
 
 ## Versions
-The lua api is separated in versions.\
+The lua api is separated in versions, currently [Legacy](legacy/index.md) and [v2](v2/index.md) are available.\
 These can be set like:
 ```html
 <script api="<version>" src="...">
@@ -10,8 +10,9 @@ These can be set like:
 If no version provided will default to legacy.
 
 ## Support
-| API Version | [Legacy](legacy/index.md) | [v2](v2/index.md)  |
+
+| API Version | Legacy | v2  |
 | ----------- | ------ | --- |
-| Napture     | Yes    | No  |
-| Bussinga    | Yes    | No  |
-| YAB         | Yes    | Yes |
+| [Napture](../browsers/napture.md)     | Yes    | No  |
+| [Bussinga](../browsers/bussinga.md)    | Yes    | No  |
+| [YAB](../browsers/yab.md)         | Yes    | Yes |

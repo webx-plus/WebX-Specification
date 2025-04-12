@@ -32,6 +32,7 @@ Events:
 - on_submit => callback(value)
 
 ## Suport
+
 | Globals | Napture | Bussinga | YAB    |
 | ------- | ------- | -------- | ------ |
 | print   | Full    | Full     | Full   |
