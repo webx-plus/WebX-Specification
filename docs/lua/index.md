@@ -7,11 +7,11 @@ These can be set like:
 ```html
 <script api="<version>" src="...">
 ```
-If no version provided will default to legacy
+If no version provided will default to legacy.
 
 ## Support
-| API Version | Legacy | v2  |
-| :---------- | :----: | :-: |
+| API Version | [Legacy](legacy/index.md) | [v2](v2/index.md)  |
+| ----------- | ------ | --- |
 | Napture     | Yes    | No  |
 | Bussinga    | Yes    | No  |
 | YAB         | Yes    | Yes |
