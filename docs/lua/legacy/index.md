@@ -18,15 +18,16 @@ The original api version of webx made by Facedev.
 - set_content(text)
 
 ## Suport
-| Globals | Napture | Bussinga | Yab    |
+| Globals | Napture | Bussinga | YAB    |
 | :------ | :-----: | :------: | :----: |
 | get     | Full    | Full     | Full   |
 | fetch   | Full    | Full *   | Full * |
 | window  | None    | Full     | Full * |
-*fetch some issues present
+
+*fetch some issues present\
 *window Yab imitates bussinga's agent
 
-| Element      | Napture |
-| :----------- | :-----: |
-| set_contents | Full    |
-| set_content  | None    |
+| Element      | Napture | Bussinga | YAB  |
+| :----------- | :-----: | :------: | :--: |
+| set_contents | Full    | Full     | Full |
+| set_content  | None    | Full     | Full |
