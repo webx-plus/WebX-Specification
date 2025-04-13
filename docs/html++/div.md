@@ -14,18 +14,20 @@ A section of content in the site.
 ```
 
 ## Children
-- [H1-6](h1-6.md)
-- [P](p.md)
-- [HR](hr.md)
+- [A](a.md)
+- [button](button.md)
 - [Div](div.md)
-- [Input](input.md)
-- [Textarea](textarea.md)
-- [Select](select.md)
-- [UL](ul.md)
-- [OL](ol.md)
-- [Li](li.md)
+- [H1-6](h1-6.md)
+- [HR](hr.md)
 - [Img](img.md)
+- [Input](input.md)
+- [Li](li.md)
+- [OL](ol.md)
+- [P](p.md)
 - [Script](script.md)
+- [Select](select.md)
+- [Textarea](textarea.md)
+- [UL](ul.md)
 
 ## Attributes
 - Class - classes it has

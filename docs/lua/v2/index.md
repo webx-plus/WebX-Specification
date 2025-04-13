@@ -16,6 +16,7 @@ The new lua api that is more powerful easy to work with.
 - set_content(text)
 
 ## Suport
+
 | Globals  | YAB  |
 | -------- | ---- |
 | get      | Full |
