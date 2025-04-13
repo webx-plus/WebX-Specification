@@ -18,6 +18,9 @@ A input that allows to select between several options.
 ## Children
 - [Option](option.md)
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

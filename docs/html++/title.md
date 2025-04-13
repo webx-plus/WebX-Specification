@@ -14,6 +14,9 @@ The title of the website.
 ## Content
 Text
 
+## Attributes
+None
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

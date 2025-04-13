@@ -11,6 +11,9 @@ The main element of a page.
 - [Head](head.md)
 - [Body](body.md)
 
+## Attributes
+None
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

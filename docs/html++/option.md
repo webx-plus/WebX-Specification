@@ -18,6 +18,9 @@ A option inside a select.
 ## Content
 Text
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

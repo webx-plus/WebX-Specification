@@ -14,6 +14,9 @@ A multi line text input.
 ## Content
 Text (default text)
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

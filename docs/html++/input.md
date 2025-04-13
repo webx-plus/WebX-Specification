@@ -15,6 +15,9 @@ Self-closing.
 ## Content
 None
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

@@ -14,6 +14,9 @@ A list item.
 ## Content
 Text
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

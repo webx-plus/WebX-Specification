@@ -24,6 +24,9 @@ The body element of a page which contains the main content about the site.
 - [Img](img.md)
 - [Script](script.md)
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

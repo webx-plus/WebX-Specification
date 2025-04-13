@@ -1,5 +1,5 @@
 # Lua Legacy Get
-This global function gets a element with the name or class passed to it.
+This global function gets a [element](../element.md) with the name or class passed to it.
 
 ```lua
 get('links', true)

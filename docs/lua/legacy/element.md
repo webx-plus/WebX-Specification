@@ -1,5 +1,5 @@
 # Lua Legacy Element
-A table representing actions that can be done to a element.
+A table representing actions that can be done to a [html](../../html++/index.md) element.
 
 ## Contents
 Functions:

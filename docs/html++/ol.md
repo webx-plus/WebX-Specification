@@ -16,6 +16,9 @@ An ordered list.
 ## Children
 - [Li](li.md)
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

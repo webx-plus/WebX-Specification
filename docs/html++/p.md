@@ -14,6 +14,9 @@ A paragraph in the site.
 ## Content
 Text
 
+## Attributes
+- Class - classes it has
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |

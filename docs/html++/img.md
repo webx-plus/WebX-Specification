@@ -15,6 +15,10 @@ Self-closing.
 ## Content
 None
 
+## Attributes
+- Class - classes it has
+- Src - the source of the image
+
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
