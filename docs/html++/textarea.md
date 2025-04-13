@@ -1,18 +1,19 @@
 # Textarea
-A multi line text input.
+A multi line text input.\
+Self-closing.
 
 ```html
 <html>
   ...
   <body>
-    <textarea><textarea>
+    <textarea>
     ...
   </body>
 </html>
 ```
 
 ## Content
-Text (default text)
+None
 
 ## Attributes
 - Class - classes it has
