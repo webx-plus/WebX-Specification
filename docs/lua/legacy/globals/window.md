@@ -1,9 +1,16 @@
 # Lua Legacy Window
 This global table holds data about some things.
 
+<div style="padding:5px;border:2px #f00 solid;border-radius:5rem;background:#f005;">
+  <b>Deprecated:</b> This is part of the legacy api which is deprecated and no longer mantained.
+</div>
+
 ```lua
 window.browser
 ```
+
+| Properties | Values |
+| Editable   | Yes     |
 
 ## Contents
 - browser - the name of the browser used

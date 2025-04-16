@@ -1,6 +1,10 @@
 # Lua Legacy Fetch
 This global function fetches content from the web in a synchronous way.
 
+<div style="padding:5px;border:2px #f00 solid;border-radius:5rem;background:#f005;">
+  <b>Deprecated:</b> This is part of the legacy api which is deprecated and no longer mantained.
+</div>
+
 ```lua
 local res = fetch({
   url = "https://dns-one.webxplus.org/",

@@ -16,4 +16,4 @@ If no version provided will default to legacy.
 | [Napture](../browsers/napture.md)   | Yes    | No  |
 | [Bussinga](../browsers/bussinga.md) | Yes    | No  |
 | [YAB](../browsers/yab.md)           | Yes    | Yes |
-| [WXV](../browsers/wxv.md)           | Yes    | No  |
+| [WXV](../browsers/wxv.md)           | Yes    | Yes |

@@ -2,13 +2,14 @@
 The new lua api that is more powerful easy to work with.
 
 ## Globals
-- get(selector, all)
-- getId(id)
-- getClass(class, all)
-- getTag(tag, all)
-- fetch(options)
-- browser
-- location
+- [browser](globals/browser.md)
+- [fetch(options)](globals/fetch.md)
+- [get(selector, all)](globals/get.md)
+- [getClass(class, all)](globals/getclass.md)
+- [getId(id)](globals/getid.md)
+- [getTag(tag, all)](globals/gettag.md)
+- [location](globals/location.md)
+- [print(text)](globals/print.md)
 
 ## Tables
 ### Element
@@ -17,12 +18,13 @@ The new lua api that is more powerful easy to work with.
 
 ## Suport
 
-| Globals  | YAB  |
-| -------- | ---- |
-| get      | Full |
-| getId    | Full |
-| getClass | Full |
-| getTag   | Full |
-| fetch    | Full |
-| browser  | Full |
-| location | Full |
+| Globals  | YAB  | WXV  |
+| -------- | ---- | ---- |
+| print    | Full | Full |
+| get      | Full | Full |
+| getId    | Full | Full |
+| getClass | Full | Full |
+| getTag   | Full | Full |
+| fetch    | Full | Full |
+| browser  | Full | Full |
+| location | Full | Full |

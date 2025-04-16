@@ -42,4 +42,4 @@ Events:
 | on_input     | Full    | Full     | Full | Full   |
 | on_submit    | Full    | Full     | Full | Full   |
 
-*set_content(s) bussinga will set html instead of text (This could be unsafe), for wxv only if set to bussinga mode
+*set_content(s) bussinga will set html instead of text (This is [unsafe](https://github.com/inventionpro/Bussinga-attack)), for wxv only if set to bussinga mode

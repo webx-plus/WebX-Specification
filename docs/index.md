@@ -1,7 +1,7 @@
 # WebX Specification
 The modern WebX Specification.
 
-You can look at browsers [here](browsers/index.md)
+You can look at browsers [here](browsers/index.md) and about browser development [here](browsers/dev.md).
 
 ## Specs
 - [HTML++](html++/index.md)
