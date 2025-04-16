@@ -28,6 +28,7 @@ jobs:
 
       - name: Install Bundler
         run: gem install bundler
+        working-directory: ./docs
 
       - name: Install dependencies
         run: bundle install
@@ -35,6 +36,7 @@ jobs:
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --source ./docs --destination ./docs/_site
+        working-directory: ./docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
