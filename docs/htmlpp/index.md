@@ -1,4 +1,6 @@
 ---
+title: HTML++
+nav_order: 1
 layout: default
 ---
 # HTML++
