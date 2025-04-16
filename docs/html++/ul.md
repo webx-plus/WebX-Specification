@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # UL
 An unordered list.
 

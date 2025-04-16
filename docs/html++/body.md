@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Body
 The body element of a page which contains the main content about the site.
 

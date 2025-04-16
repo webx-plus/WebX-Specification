@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # P
 A paragraph in the site.
 

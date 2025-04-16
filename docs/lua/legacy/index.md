@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lua Legacy api
 The original api version of webx made by Facedev.
 

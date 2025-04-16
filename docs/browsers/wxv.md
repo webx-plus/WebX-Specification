@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # WXV (WebX Viewer)
 A in browser website viewer by: inventionpro.
 

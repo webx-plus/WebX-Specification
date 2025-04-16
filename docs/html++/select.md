@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Select
 A input that allows to select between several options.
 

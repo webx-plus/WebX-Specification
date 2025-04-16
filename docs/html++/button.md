@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Button
 A button in the site.
 

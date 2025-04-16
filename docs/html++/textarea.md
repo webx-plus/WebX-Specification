@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Textarea
 A multi line text input.\
 Self-closing.

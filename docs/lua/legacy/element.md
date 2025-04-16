@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lua Legacy Element
 A table representing actions that can be done to a [html](../../html++/index.md) element.
 

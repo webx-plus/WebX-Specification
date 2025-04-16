@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Input
 A one line text input.\
 Self-closing.

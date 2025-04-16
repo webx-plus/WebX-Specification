@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lua v2 Browser
 This global table holds data about the browser.
 

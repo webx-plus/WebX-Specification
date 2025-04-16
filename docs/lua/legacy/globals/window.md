@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lua Legacy Window
 This global table holds data about some things.
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # HTML++
 The version of html that WebX uses.\
 This is different from HTML5 and has less features.

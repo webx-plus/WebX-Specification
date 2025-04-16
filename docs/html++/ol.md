@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # OL
 An ordered list.
 

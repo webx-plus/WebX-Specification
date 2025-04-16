@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Browser development
 So you want to make a browser for WebX?\
 Thats great! more competition means better browsers for everyone.\

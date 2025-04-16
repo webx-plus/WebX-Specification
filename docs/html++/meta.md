@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Meta
 Metadata about the site.\
 Self-closing.

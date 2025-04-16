@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Li
 A list item.
 

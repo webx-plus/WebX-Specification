@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Option
 A option inside a select.
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # WebX Working Group
 The group of people that write the spec and decide the future of WebX.\
 A person that represents each browser with significant market share is part of the group.

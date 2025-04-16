@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Img
 A image in a site.\
 Self-closing.

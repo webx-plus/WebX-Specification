@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Browsers
 All the browsers that work with webx.
 

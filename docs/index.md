@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # WebX Specification
 The modern WebX Specification.
 

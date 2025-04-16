@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Lua
 The programming language of WebX.
 

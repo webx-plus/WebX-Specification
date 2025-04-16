@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Title
 The title of the website.
 
