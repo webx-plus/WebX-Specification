@@ -9,7 +9,8 @@ browser.name
 | Editable   | No     |
 
 ## Contents
-- name - the name of the browser used
+- name - the name of the browser used `Browser name!`
+- agent - a normalized version of the name `browser_name`
 - version - version of the browser used
 - api - a table containing info if the browsers support certain apis
 
@@ -27,5 +28,6 @@ Contents:
 |         | YAB  | WXV  |
 | ------- | ---- | ---- |
 | name    | Full | Full |
+| agent   | Full | Full |
 | version | Full | Full |
 | api     | Full | Full |

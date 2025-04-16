@@ -16,7 +16,7 @@ Prefixed features must appear in the [browser.api](../lua/v2/globals/browser.md)
 browser.api._{name}_{feature}
 ```
 where:
-- name - lowercase version of [browser.name](../lua/v2/globals/browser.md)
+- name - is the [browser.agent](../lua/v2/globals/browser.md)
 - feature - the name of the fature (we_use_this_type_of_naming)
 
 Prefix feature use.\
@@ -31,6 +31,6 @@ Which lua engine to use?\
 Well there it depends on use case and language.\
 Below are some recomendations based on current browsers.
 
-|       | Fast    | Integrated |
-| JS    | Wasmoon | Fengari    |
-| Other | Luau    | Luau       |
+|       | Fast    | Small   | Integrated | Async   |
+| JS    | Wasmoon | Fengari | Fengari    | Wasmoon |
+| Other | Luau    | Luau    | Luau       | Luau    |

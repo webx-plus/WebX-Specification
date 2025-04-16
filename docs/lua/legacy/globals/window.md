@@ -10,7 +10,7 @@ window.browser
 ```
 
 | Properties | Values |
-| Editable   | Yes     |
+| Editable   | No     |
 
 ## Contents
 - browser - the name of the browser used
