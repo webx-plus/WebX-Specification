@@ -1,2 +1,9 @@
+title: WebX Specification
+description: The modern WebX Specification.
 theme: just-the-docs
 color_scheme: dark
+
+url: https://spec.webxplus.org/
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
