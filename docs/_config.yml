@@ -6,3 +6,10 @@ baseurl: "/"
 
 theme: just-the-docs
 color_scheme: dark
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
