@@ -1,5 +1,8 @@
 title: WebX Specification
 description: The modern WebX Specification.
+
+baseurl: "/"
+
 theme: just-the-docs
 color_scheme: dark
 
