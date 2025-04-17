@@ -24,7 +24,7 @@ Contents:
 - fetch - the [fetch](fetch.md) api
 - get - the [get](get.md) api
 - get_type - refers to [getClass](getclass.md), [getId](getid.md) and [getTag](gettag.md)
-- print - the [print](print.md) api
+- print - refers to [print](print.md), [printe](printe.md) and [printw](printw.md)
 - fetch - the [fetch](fetch.md) api
 
 ## Suport

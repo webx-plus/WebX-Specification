@@ -1,0 +1,23 @@
+---
+title: PrintW
+parent: V2 API
+---
+# Lua v2 PrintW
+This global function prints a warning.
+
+```lua
+printw('Need more trees')
+```
+
+## Inputs
+- Text - any text to print
+
+## Return
+No return.
+
+## Suport
+
+|        | YAB  | WXV  |
+| ------ | ---- | ---- |
+| printw | Full | Full |
+| text   | Full | Full |
