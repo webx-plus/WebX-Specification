@@ -1,6 +1,6 @@
 ---
 title: OL
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # OL

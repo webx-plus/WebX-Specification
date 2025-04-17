@@ -1,6 +1,6 @@
 ---
 title: Input
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Input

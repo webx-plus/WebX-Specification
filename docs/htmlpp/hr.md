@@ -1,6 +1,6 @@
 ---
 title: HR
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # HR

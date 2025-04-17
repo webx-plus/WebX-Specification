@@ -1,6 +1,6 @@
 ---
 title: Button
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Button

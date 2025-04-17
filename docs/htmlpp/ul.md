@@ -1,6 +1,6 @@
 ---
 title: UL
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # UL

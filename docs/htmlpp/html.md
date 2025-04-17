@@ -1,6 +1,6 @@
 ---
 title: Html
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Html

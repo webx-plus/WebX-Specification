@@ -1,4 +1,6 @@
 ---
+title: Browser development
+parent: Browsers
 layout: default
 ---
 # Browser development

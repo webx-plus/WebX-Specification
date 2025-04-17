@@ -1,6 +1,6 @@
 ---
 title: Textarea
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Textarea

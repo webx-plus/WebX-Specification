@@ -1,6 +1,6 @@
 ---
 title: Body
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Body

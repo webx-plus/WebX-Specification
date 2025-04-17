@@ -1,6 +1,6 @@
 ---
 title: Meta
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Meta

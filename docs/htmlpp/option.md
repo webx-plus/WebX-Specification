@@ -1,6 +1,6 @@
 ---
 title: Option
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Option

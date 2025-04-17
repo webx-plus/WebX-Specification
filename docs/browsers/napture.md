@@ -1,4 +1,6 @@
 ---
+title: Napture
+parent: Browsers
 layout: default
 ---
 # Napture

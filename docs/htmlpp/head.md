@@ -1,6 +1,6 @@
 ---
 title: Head
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Head

@@ -1,6 +1,6 @@
 ---
 title: Script
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Script

@@ -1,6 +1,6 @@
 ---
 title: P
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # P

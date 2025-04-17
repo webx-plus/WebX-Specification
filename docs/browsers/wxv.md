@@ -1,4 +1,6 @@
 ---
+title: WXV
+parent: Browsers
 layout: default
 ---
 # WXV (WebX Viewer)

@@ -1,6 +1,6 @@
 ---
 title: Div
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Div

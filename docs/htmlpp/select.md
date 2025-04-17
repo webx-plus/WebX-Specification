@@ -1,6 +1,6 @@
 ---
 title: Select
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Select

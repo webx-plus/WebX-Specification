@@ -1,4 +1,6 @@
 ---
+title: Bussinga
+parent: Browsers
 layout: default
 ---
 # Bussinga

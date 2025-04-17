@@ -1,4 +1,6 @@
 ---
+title: V2 API
+parent: Lua
 layout: default
 ---
 # Lua v2 api

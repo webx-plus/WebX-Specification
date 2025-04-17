@@ -1,6 +1,6 @@
 ---
 title: Link
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Link

@@ -1,4 +1,6 @@
 ---
+title: YAB
+parent: Browsers
 layout: default
 ---
 # YAB (Yet Another Browser)

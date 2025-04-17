@@ -1,6 +1,6 @@
 ---
 title: Img
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Img

@@ -1,4 +1,6 @@
 ---
+title: Legacy API
+parent: Lua
 layout: default
 ---
 # Lua Legacy api

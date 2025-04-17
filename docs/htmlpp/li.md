@@ -1,6 +1,6 @@
 ---
 title: Li
-parent: htmlpp
+parent: HTML++
 layout: default
 ---
 # Li
