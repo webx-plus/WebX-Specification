@@ -1,4 +1,6 @@
 ---
+title: Print
+parent: V2 API
 ---
 # Lua v2 Print
 This global function prints text passed to it.

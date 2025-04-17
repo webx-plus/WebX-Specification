@@ -1,4 +1,6 @@
 ---
+title: Fetch
+parent: Legacy API
 ---
 # Lua Legacy Fetch
 This global function fetches content from the web in a synchronous way.

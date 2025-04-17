@@ -1,4 +1,6 @@
 ---
+title: Get
+parent: Legacy API
 ---
 # Lua Legacy Get
 This global function gets a [element](../element.md) with the name or class passed to it.

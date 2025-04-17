@@ -1,4 +1,6 @@
 ---
+title: Print
+parent: Legacy API
 ---
 # Lua Legacy Print
 This global function prints text passed to it.

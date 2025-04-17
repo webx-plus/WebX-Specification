@@ -1,4 +1,6 @@
 ---
+title: Browser
+parent: V2 API
 ---
 # Lua v2 Browser
 This global table holds data about the browser.
