@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: htmlpp
 ---
 # HR
 A horizontal rule aka a horizontal line.\

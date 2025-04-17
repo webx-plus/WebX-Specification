@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: htmlpp
 ---
 # Script
 A script that will run [lua](../lua/index.md) code.\

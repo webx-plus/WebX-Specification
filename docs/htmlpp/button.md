@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: htmlpp
 ---
 # Button
 A button in the site.

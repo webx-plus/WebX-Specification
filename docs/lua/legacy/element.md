@@ -4,6 +4,9 @@ layout: default
 # Lua Legacy Element
 A table representing actions that can be done to a [html](../../html++/index.md) element.
 
+{: .deprecated }
+This is part of the legacy api which is deprecated and no longer mantained.
+
 ## Contents
 Functions:
 - get_contents() - get the text contents / value of a element
