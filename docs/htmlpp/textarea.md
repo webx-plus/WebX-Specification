@@ -1,7 +1,6 @@
 ---
 title: Textarea
 parent: HTML++
-layout: default
 ---
 # Textarea
 A multi line text input.\

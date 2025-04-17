@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Element
+parent: Legacy API
 ---
 # Lua Legacy Element
 A table representing actions that can be done to a [html](../../html++/index.md) element.

@@ -1,7 +1,6 @@
 ---
 title: YAB
 parent: Browsers
-layout: default
 ---
 # YAB (Yet Another Browser)
 A modern browser with many options made by: LarsIsHere and inventionpro.

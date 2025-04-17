@@ -1,7 +1,6 @@
 ---
 title: Meta
 parent: HTML++
-layout: default
 ---
 # Meta
 Metadata about the site.\

@@ -14,6 +14,14 @@ callouts:
     title: Deprecated
     color: red
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      has_toc: false
+
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap

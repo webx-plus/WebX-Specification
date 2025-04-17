@@ -1,7 +1,6 @@
 ---
 title: Div
 parent: HTML++
-layout: default
 ---
 # Div
 A section of content in the site.

@@ -1,7 +1,6 @@
 ---
 title: Browser development
 parent: Browsers
-layout: default
 ---
 # Browser development
 So you want to make a browser for WebX?\

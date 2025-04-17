@@ -1,7 +1,6 @@
 ---
 title: Option
 parent: HTML++
-layout: default
 ---
 # Option
 A option inside a select.

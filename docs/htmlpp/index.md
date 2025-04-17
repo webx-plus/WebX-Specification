@@ -1,7 +1,6 @@
 ---
 title: HTML++
 nav_order: 2
-layout: default
 ---
 # HTML++
 The version of html that WebX uses.\

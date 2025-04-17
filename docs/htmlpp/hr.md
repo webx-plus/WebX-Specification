@@ -1,7 +1,6 @@
 ---
 title: HR
 parent: HTML++
-layout: default
 ---
 # HR
 A horizontal rule aka a horizontal line.\

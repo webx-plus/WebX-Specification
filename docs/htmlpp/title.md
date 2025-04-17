@@ -1,7 +1,6 @@
 ---
 title: Title
 parent: HTML++
-layout: default
 ---
 # Title
 The title of the website.

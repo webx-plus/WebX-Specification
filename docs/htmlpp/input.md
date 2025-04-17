@@ -1,7 +1,6 @@
 ---
 title: Input
 parent: HTML++
-layout: default
 ---
 # Input
 A one line text input.\

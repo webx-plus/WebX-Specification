@@ -1,7 +1,6 @@
 ---
 title: OL
 parent: HTML++
-layout: default
 ---
 # OL
 An ordered list.

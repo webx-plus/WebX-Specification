@@ -1,7 +1,6 @@
 ---
 title: Head
 parent: HTML++
-layout: default
 ---
 # Head
 The head element of a page which contains metadata about the site.

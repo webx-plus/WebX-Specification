@@ -1,7 +1,6 @@
 ---
 title: A
 parent: HTML++
-layout: default
 ---
 # A
 An anchor or link in the site.

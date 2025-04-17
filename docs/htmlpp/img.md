@@ -1,7 +1,6 @@
 ---
 title: Img
 parent: HTML++
-layout: default
 ---
 # Img
 A image in a site.\

@@ -1,7 +1,6 @@
 ---
 title: Script
 parent: HTML++
-layout: default
 ---
 # Script
 A script that will run [lua](../lua/index.md) code.\

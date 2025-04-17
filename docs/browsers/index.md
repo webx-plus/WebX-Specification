@@ -1,7 +1,6 @@
 ---
 title: Browsers
 nav_order: 1
-layout: default
 ---
 # Browsers
 All the browsers that work with webx.

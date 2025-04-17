@@ -1,9 +1,8 @@
 ---
 title: Legacy API
 parent: Lua
-layout: default
 ---
-# Lua Legacy api
+# Legacy API
 The original api version of webx made by Facedev.
 
 {: .deprecated }

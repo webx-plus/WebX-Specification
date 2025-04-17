@@ -1,9 +1,8 @@
 ---
 title: V2 API
 parent: Lua
-layout: default
 ---
-# Lua v2 api
+# V2 API
 The new lua api that is more powerful easy to work with.
 
 ## Globals

@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 # Lua Legacy Print
 This global function prints text passed to it.

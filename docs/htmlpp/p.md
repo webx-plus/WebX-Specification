@@ -1,7 +1,6 @@
 ---
 title: P
 parent: HTML++
-layout: default
 ---
 # P
 A paragraph in the site.

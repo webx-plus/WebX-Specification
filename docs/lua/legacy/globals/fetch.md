@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 # Lua Legacy Fetch
 This global function fetches content from the web in a synchronous way.
