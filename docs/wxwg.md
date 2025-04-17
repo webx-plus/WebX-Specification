@@ -1,4 +1,6 @@
 ---
+title: WXWG
+nav_order: 5
 layout: default
 ---
 # WebX Working Group

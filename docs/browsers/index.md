@@ -1,4 +1,6 @@
 ---
+title: Browsers
+nav_order: 1
 layout: default
 ---
 # Browsers

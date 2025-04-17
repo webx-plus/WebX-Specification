@@ -1,0 +1,17 @@
+.side-bar {
+  width: 16.5rem;
+  max-width: unset;
+}
+.site-title {
+  padding: 10px;
+}
+#top {
+  max-width: unset;
+  margin-left: 16.5rem;
+  margin-right: 0px;
+}
+@media (max-width: 800px) {
+  #top {
+    margin-left: 0px;
+  }
+}
