@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Html
 parent: htmlpp
+layout: default
 ---
 # Html
 The main element of a page.

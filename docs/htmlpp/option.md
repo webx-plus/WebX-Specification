@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Option
 parent: htmlpp
+layout: default
 ---
 # Option
 A option inside a select.

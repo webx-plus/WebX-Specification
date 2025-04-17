@@ -1,6 +1,7 @@
 ---
-layout: default
+title: A
 parent: htmlpp
+layout: default
 ---
 # A
 An anchor or link in the site.

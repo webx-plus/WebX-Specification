@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Div
 parent: htmlpp
+layout: default
 ---
 # Div
 A section of content in the site.

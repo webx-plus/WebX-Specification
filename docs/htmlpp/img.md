@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Img
 parent: htmlpp
+layout: default
 ---
 # Img
 A image in a site.\

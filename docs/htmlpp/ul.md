@@ -1,6 +1,7 @@
 ---
-layout: default
+title: UL
 parent: htmlpp
+layout: default
 ---
 # UL
 An unordered list.

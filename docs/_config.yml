@@ -3,6 +3,7 @@ description: The modern WebX Specification.
 
 url: "https://spec.webxplus.org"
 baseurl: "/"
+permalink: pretty
 
 theme: just-the-docs
 color_scheme: dark

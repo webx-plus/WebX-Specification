@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Title
 parent: htmlpp
+layout: default
 ---
 # Title
 The title of the website.

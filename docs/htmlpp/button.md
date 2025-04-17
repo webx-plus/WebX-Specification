@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Button
 parent: htmlpp
+layout: default
 ---
 # Button
 A button in the site.

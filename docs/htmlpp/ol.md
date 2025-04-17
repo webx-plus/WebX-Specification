@@ -1,6 +1,7 @@
 ---
-layout: default
+title: OL
 parent: htmlpp
+layout: default
 ---
 # OL
 An ordered list.

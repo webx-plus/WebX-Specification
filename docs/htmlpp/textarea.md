@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Textarea
 parent: htmlpp
+layout: default
 ---
 # Textarea
 A multi line text input.\

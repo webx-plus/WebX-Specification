@@ -1,6 +1,7 @@
 ---
-layout: default
+title: P
 parent: htmlpp
+layout: default
 ---
 # P
 A paragraph in the site.

@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Head
 parent: htmlpp
+layout: default
 ---
 # Head
 The head element of a page which contains metadata about the site.

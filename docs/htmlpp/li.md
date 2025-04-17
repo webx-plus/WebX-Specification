@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Li
 parent: htmlpp
+layout: default
 ---
 # Li
 A list item.

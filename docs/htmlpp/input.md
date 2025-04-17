@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Input
 parent: htmlpp
+layout: default
 ---
 # Input
 A one line text input.\

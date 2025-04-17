@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Meta
 parent: htmlpp
+layout: default
 ---
 # Meta
 Metadata about the site.\
