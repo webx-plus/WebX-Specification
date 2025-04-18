@@ -21,6 +21,7 @@ None
 
 ## Attributes
 - Class - classes it has
+- Placeholder - placeholder text
 
 ## Support
 

@@ -21,6 +21,8 @@ None
 
 ## Attributes
 - Class - classes it has
+- Placeholder - placeholder text
+- Type - the type of input
 
 ## Support
 
