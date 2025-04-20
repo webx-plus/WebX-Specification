@@ -15,4 +15,4 @@ It also provides a way to include websites in a iframe.
 <iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.frontdoor&bussinga=true"></iframe>
 ```
 
-<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.frontdoor&bussinga=true"></iframe>
+<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.frontdoor&bussinga=true" style="width:75%;aspect-ratio:16/9;"></iframe>
