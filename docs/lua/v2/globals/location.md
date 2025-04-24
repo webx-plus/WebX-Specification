@@ -17,8 +17,8 @@ location.href
 - domain - the domain `website.it`
 - protocol - protocol `buss`
 - path - path `/path`
-- query - query parameters `{ query: 'params' }`
-- rawQuery - unparsed query parameters `?query=params`
+- query - query parameters `{ query: 'params and stuff' }`
+- rawQuery - unparsed query parameters `?query=params%20and%20stuff`
 - go(url) - redirect to another url
 
 ### Query
@@ -26,8 +26,8 @@ The query is a table with key being the param name and value its value. Some imp
 - Duplicate last overwrites others. `?cat=1&cat=2` then `{ cat: '1' }`.
 - Case sensitive. `?Cat=1&cat=2` then `{ Cat: '1', cat: '2' }`.
 - Multi = are not ignored. `?cat=1=2` then `{ cat: '1=2' }`.
-- Spaces are encoded. `?kitty cat=makes meow` then `{ 'kitty%20cat': 'makes%20meow' }`.
-- Trailing spaces are trimmed. `? cat = 1 ` then `{ cat: '1' }`.
+- Special characters are decoded. `?kitty%20cat=makes%20meow` then `{ 'kitty cat': 'makes meow' }`.
+- Trailing spaces are trimmed. `?%20cat%20=%201%20` then `{ cat: '1' }`.
 - Blank values are fine but blank keys are not. `?cat=&=cat&dog&&=` then `{ cat: '', dog: '' }`.
 - Trailing ? & are ignored. `?cat&` then `{ cat: '' }` or `?` then `{}`.
 
