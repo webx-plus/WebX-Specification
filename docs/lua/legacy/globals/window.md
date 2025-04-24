@@ -24,11 +24,11 @@ window.browser
 The query is a table with key being the param name and value its value. Some important things:
 - Duplicate last overwrites others. `?cat=1&cat=2` then `{ cat: '2' }`.
 - Case sensitive. `?Cat=1&cat=2` then `{ Cat: '1', cat: '2' }`.
+- Multi = are not ignored. `?cat=1=2` then `{ cat: '1=2' }`.
 - Spaces are not encoded. `?kitty cat=makes meow` then `{ 'kitty cat': 'makes meow' }`.
 - Trailing spaces are not trimmed. `? cat = 1 ` then `{ ' cat ': ' 1 ' }`.
-- Multi = are not ignored. `?cat=1=2` then `{ cat: '1=2' }`.
 - Blank keys or values are fine. `?cat=&=cat&dog` then `{ cat: '', '': 'cat', dog: '' }`.
-- Trailing ? & are ignored. `?cat&` then `{ cat: '' }` or `?` then `{}`. But `=` then `{ '': '' }`.
+- Trailing ? & are ignored. `?cat&` then `{ cat: '' }` or `?` then `{}`. But `?=` then `{ '': '' }`.
 
 ## Suport
 
