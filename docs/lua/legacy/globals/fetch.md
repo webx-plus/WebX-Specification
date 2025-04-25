@@ -33,8 +33,9 @@ String or Table (JSON/Object like structure) depending on the response of the fe
 | --------------- | ------- | -------- | ------ | ------ |
 | fetch           | Full    | Full *   | Full * | Full * |
 | options.url     | Full    | Full     | Full   | Full   |
-| options.method  | Full    | Full     | Full   | Full   |
+| options.method  | Full *  | Full     | Full   | Full   |
 | options.headers | Full    | Full     | Full   | Full   |
 | options.body    | Full    | Full     | Full   | Full   |
 
 *fetch some issues around sync present
+*options.method Napture only supports GET, POST, PUT, DELETE

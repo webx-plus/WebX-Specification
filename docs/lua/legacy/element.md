@@ -35,8 +35,8 @@ Events:
 | element      | Full    | Full     | Full | Full   |
 | get_contents | Full    | Full     | Full | Full   |
 | set_contents | Full    | Full *   | Full | Full * |
-| get_content  | None    | Full     | Full | Full   |
-| set_content  | None    | Full *   | Full | Full * |
+| get_content  | Full    | Full     | Full | Full   |
+| set_content  | Full    | Full *   | Full | Full * |
 | get_href     | Full    | Full     | Full | Full   |
 | set_href     | Full    | Full     | Full | Full   |
 | get_source   | Full    | Full     | Full | Full   |
