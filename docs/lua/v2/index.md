@@ -19,16 +19,3 @@ The new lua api that is more powerful easy to work with.
 ### Element
 - get_content()
 - set_content(text)
-
-## Suport
-
-| Globals  | YAB  | WXV  |
-| -------- | ---- | ---- |
-| print    | Full | Full |
-| get      | Full | Full |
-| getId    | Full | Full |
-| getClass | Full | Full |
-| getTag   | Full | Full |
-| fetch    | Full | Full |
-| browser  | Full | Full |
-| location | Full | Full |

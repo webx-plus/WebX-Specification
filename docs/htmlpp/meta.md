@@ -34,5 +34,5 @@ Other names can be used but will be ignored by most programs/browsers.
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
-| --------- | ------- | -------- | ---- | ---- |
+| --------- | :-----: | :------: | :--: | :--: |
 | supported | Full    | Full     | Full | Full |

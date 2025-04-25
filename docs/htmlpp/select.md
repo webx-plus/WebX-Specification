@@ -28,5 +28,5 @@ A input that allows to select between several options.
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
-| --------- | ------- | -------- | ---- | ---- |
+| --------- | :-----: | :------: | :--: | :--: |
 | supported | Full    | Full     | Full | Full |

@@ -20,10 +20,10 @@ get('links', true)
 If `all` set to false: [Element](../element.md)\
 If `all` set to true: array of [Element](../element.md)s
 
-## Suport
+## Support
 
 |      | Napture | Bussinga | YAB  | WXV  |
-| ---- | ------- | -------- | ---- | ---- |
+| ---- | :-----: | :------: | :--: | :--: |
 | get  | Full    | Full     | Full | Full |
 | name | Full    | Full     | Full | Full |
 | all  | Full    | Full     | Full | Full |

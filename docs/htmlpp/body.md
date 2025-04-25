@@ -36,5 +36,5 @@ The body element of a page which contains the main content about the site.
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
-| --------- | ------- | -------- | ---- | ---- |
+| --------- | :-----: | :------: | :--: | :--: |
 | supported | Full    | Full     | Full | Full |

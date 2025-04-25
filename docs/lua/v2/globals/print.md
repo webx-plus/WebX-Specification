@@ -15,9 +15,9 @@ print('Hello')
 ## Return
 No return.
 
-## Suport
+## Support
 
 |       | YAB  | WXV  |
-| ----- | ---- | ---- |
+| ----- | :--: | :--: |
 | print | Full | Full |
 | text  | Full | Full |

@@ -27,10 +27,10 @@ Contents:
 - print - refers to [print](print.md), [printe](printe.md) and [printw](printw.md)
 - fetch - the [fetch](fetch.md) api
 
-## Suport
+## Support
 
 |         | YAB  | WXV  |
-| ------- | ---- | ---- |
+| ------- | :--: | :--: |
 | name    | Full | Full |
 | agent   | Full | Full |
 | version | Full | Full |

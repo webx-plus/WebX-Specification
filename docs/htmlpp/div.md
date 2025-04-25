@@ -39,5 +39,5 @@ A section of content in the site.
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
-| --------- | ------- | -------- | ---- | ---- |
+| --------- | :-----: | :------: | :--: | :--: |
 | supported | Full    | Full     | Full | Full |

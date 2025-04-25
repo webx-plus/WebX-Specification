@@ -27,10 +27,10 @@ local res = fetch({
 ## Return
 String or Table (JSON/Object like structure) depending on the response of the fetch.
 
-## Suport
+## Support
 
 |                 | Napture | Bussinga | YAB    | WXV    |
-| --------------- | ------- | -------- | ------ | ------ |
+| --------------- | :-----: | :------: | :----: | :----: |
 | fetch           | Full    | Full *   | Full * | Full * |
 | options.url     | Full    | Full     | Full   | Full   |
 | options.method  | Full *  | Full     | Full   | Full   |

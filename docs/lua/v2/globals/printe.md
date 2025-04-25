@@ -15,9 +15,9 @@ printe('Incorrect response')
 ## Return
 No return.
 
-## Suport
+## Support
 
 |        | YAB  | WXV  |
-| ------ | ---- | ---- |
+| ------ | :--: | :--: |
 | printe | Full | Full |
 | text   | Full | Full |

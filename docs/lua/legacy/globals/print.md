@@ -18,9 +18,9 @@ print('Hello')
 ## Return
 No return.
 
-## Suport
+## Support
 
 |       | Napture | Bussinga | YAB  | WXV  |
-| ----- | ------- | -------- | ---- | ---- |
+| ----- | :-----: | :------: | :--: | :--: |
 | print | Full    | Full     | Full | Full |
 | text  | Full    | Full     | Full | Full |

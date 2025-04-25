@@ -28,10 +28,10 @@ Events:
 - on_input => callback(value) - when text is written/changed in an input
 - on_submit => callback(value) - when a form is submited
 
-## Suport
+## Support
 
 |              | Napture | Bussinga | YAB  | WXV    |
-| ------------ | ------- | -------- | ---- | ------ |
+| ------------ | :-----: | :------: | :--: | :----: |
 | element      | Full    | Full     | Full | Full   |
 | get_contents | Full    | Full     | Full | Full   |
 | set_contents | Full    | Full *   | Full | Full * |

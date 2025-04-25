@@ -34,5 +34,5 @@ Can be:
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  |
-| --------- | ------- | -------- | ---- | ---- |
+| --------- | :-----: | :------: | :--: | :--: |
 | supported | Full    | Full     | Full | Full |

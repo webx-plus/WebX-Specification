@@ -13,6 +13,7 @@ window.browser
 ```
 
 | Properties | Values |
+| ---------- | :----: |
 | Editable   | Yes    |
 
 ## Contents
@@ -30,13 +31,13 @@ The query is a table with key being the param name and value its value. Some imp
 - Blank keys or values are fine. `?cat=&=cat&dog` then `{ cat: '', '': 'cat', dog: '' }`.
 - Trailing ? & are ignored. `?cat&` then `{ cat: '' }` or `?` then `{}`. But `?=` then `{ '': '' }`.
 
-## Suport
+## Support
 
 |              | Napture | Bussinga | YAB      | WXV      |
-| ------------ | ------- | -------- | -------- | -------- |
+| ------------ | :-----: | :------: | :------: | :------: |
 | window       | None    | Full     | Full     | Full     |
 | browser      | None    | Full     | Full *   | Full *   |
-| true_browser | None    | None     | Included | Included |
+| true_browser | No      | No       | Included | Included |
 | location     | None    | Full     | Full     | Full     |
 | query        | None    | Full     | Full     | Full     |
 

@@ -10,6 +10,7 @@ location.href
 ```
 
 | Properties | Values |
+| ---------- | :----: |
 | Editable   | No     |
 
 ## Contents
@@ -31,10 +32,10 @@ The query is a table with key being the param name and value its value. Some imp
 - Blank values are fine but blank keys are not. `?cat=&=cat&dog&&=` then `{ cat: '', dog: '' }`.
 - Trailing ? & are ignored. `?cat&` then `{ cat: '' }` or `?` then `{}`.
 
-## Suport
+## Support
 
 |          |  YAB  | WXV  |
-| -------- |  ---- | ---- |
+| -------- |  :--: | :--: |
 | location |  Full | Full |
 | href     |  Full | Full |
 | domain   |  Full | Full |

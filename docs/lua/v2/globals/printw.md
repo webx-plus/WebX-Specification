@@ -15,9 +15,9 @@ printw('Need more trees')
 ## Return
 No return.
 
-## Suport
+## Support
 
 |        | YAB  | WXV  |
-| ------ | ---- | ---- |
+| ------ | :--: | :--: |
 | printw | Full | Full |
 | text   | Full | Full |

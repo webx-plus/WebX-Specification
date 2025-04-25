@@ -10,6 +10,18 @@
   margin-left: 16.5rem;
   margin-right: 0px;
 }
+
+.table-wrapper {
+  width: fit-content;
+}
+table {
+  min-width: 20%;
+  border-collapse: collapse;
+}
+td {
+  background-color: #34313a;
+}
+
 @media (max-width: 800px) {
   .side-bar {
     width: unset;

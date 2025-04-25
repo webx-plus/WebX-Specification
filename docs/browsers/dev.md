@@ -36,5 +36,6 @@ Well there it depends on use case and language.\
 Below are some recomendations based on current browsers.
 
 |       | Fast    | Small   | Integrated | Async   |
+| ----- | ------- | ------- | ---------- | ------- |
 | JS    | Wasmoon | Fengari | Fengari    | Wasmoon |
 | Other | Luau    | Luau    | Luau       | Luau    |
