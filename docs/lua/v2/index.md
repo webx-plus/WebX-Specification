@@ -1,6 +1,7 @@
 ---
 title: V2 API
 parent: Lua
+nav_order: 1
 ---
 # V2 API
 The new lua api that is more powerful easy to work with.

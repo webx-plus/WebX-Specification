@@ -1,6 +1,7 @@
 ---
 title: Legacy API
 parent: Lua
+nav_order: 2
 ---
 # Legacy API
 The original api version of webx made by Facedev.
