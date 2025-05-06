@@ -10,3 +10,7 @@ A person that represents each browser with significant market share is part of t
 ## Members
 - inventionpro - Developer of [WXV](browsers/wxv.md)
 - LarsIsHere - Developer of [YAB](browsers/yab.md)
+
+## Consideration
+Features up for consideration / pending.
+- Audio / Video Elements

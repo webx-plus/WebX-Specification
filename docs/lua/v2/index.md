@@ -7,13 +7,16 @@ The new lua api that is more powerful easy to work with.
 
 ## Globals
 - [browser](globals/browser.md)
+- [global](globals/global.md)
+- [location](globals/location.md)
 - [fetch(options)](globals/fetch.md)
 - [get(selector, all)](globals/get.md)
 - [getClass(class, all)](globals/getclass.md)
 - [getId(id)](globals/getid.md)
 - [getTag(tag, all)](globals/gettag.md)
-- [location](globals/location.md)
 - [print(text)](globals/print.md)
+- [printe(text)](globals/printe.md)
+- [printw(text)](globals/printw.md)
 
 ## Tables
 ### Element
