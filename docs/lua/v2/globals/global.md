@@ -19,7 +19,4 @@ Empty
 
 |         | YAB  | WXV  |
 | ------- | :--: | :--: |
-| name    | Full | Full |
-| agent   | Full | Full |
-| version | Full | Full |
-| api     | Full | Full |
+| global  | Full | Full |
