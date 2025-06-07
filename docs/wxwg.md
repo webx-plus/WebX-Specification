@@ -1,7 +1,6 @@
 ---
 title: WXWG
-nav_order: 5
-layout: default
+nav_order: 6
 ---
 # WebX Working Group
 The group of people that write the spec and decide the future of WebX.\
