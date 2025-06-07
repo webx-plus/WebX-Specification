@@ -17,7 +17,7 @@ Set the source of the page, in this case the main branch\
 
 ## 3. Skip jekyll (Optional)
 Github by default builds the page with jekyll but webx does not need this.\
-This can be skiped and make the build faster by creating a empty `.nojekyll` file.
+This can be skipped and make the build faster by creating a empty `.nojekyll` file.
 
 ## 4. Done
 The repo is now hosted on github pages.\
