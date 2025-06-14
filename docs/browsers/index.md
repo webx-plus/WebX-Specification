@@ -16,12 +16,10 @@ If you want to participate in browser development, refer to the [guide](dev.md).
 
 ## Other browser info
 
-| Browser  | Lua Engine         | Environment |
-| -------- | ------------------ | ----------- |
-| Napture  | Luau               | Desktop     |
-| Bussinga | Wasmoon            | Desktop     |
-| YAB      | Wasmoon & Fengari* | Desktop     |
-| WXV      | Wasmoon            | Web         |
-| WebXBrowser | Wasmoon         | Desktop     |
-
-*yab experimental support for fengari
+| Browser     | Lua Engine | Environment |
+| ----------- | ---------- | ----------- |
+| Napture     | Luau       | Desktop     |
+| Bussinga    | Wasmoon    | Desktop     |
+| YAB         | Wasmoon    | Desktop     |
+| WXV         | Wasmoon    | Web         |
+| WebXBrowser | Wasmoon    | Desktop     |
