@@ -9,6 +9,7 @@ All the browsers that work with webx.
 - [Bussinga](bussinga.md)
 - [YAB](yab.md)
 - [WXV](wxv.md)
+- [WebXBrowser](wxb.md)
 
 ## Browser development
 If you want to participate in browser development, refer to the [guide](dev.md).
@@ -21,5 +22,6 @@ If you want to participate in browser development, refer to the [guide](dev.md).
 | Bussinga | Wasmoon            | Desktop     |
 | YAB      | Wasmoon & Fengari* | Desktop     |
 | WXV      | Wasmoon            | Web         |
+| WebXBrowser | Wasmoon         | Desktop     |
 
 *yab experimental support for fengari
