@@ -25,6 +25,6 @@ An unordered list.
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  |
-| --------- | :-----: | :------: | :--: | :--: |
-| supported | Full    | Full     | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV  | WXB  |
+| --------- | :-----: | :------: | :--: | :--: | :--: |
+| supported | Full    | Full     | Full | Full | Full |

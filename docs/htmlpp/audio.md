@@ -1,30 +1,31 @@
 ---
-title: OL
+title: Audio
 parent: HTML++
 ---
-# OL
-An ordered list.
+# Audio
+A audio player.\
+Self-closing.\
+Note: Unlike html, the controls are always shown.
 
 ```html
 <html>
   ...
   <body>
-    <ol>
-      <li>Item</li>
-    </ol>
+    <audio src="<url>">
     ...
   </body>
 </html>
 ```
 
-## Children
-- [Li](li.md)
+## Content
+None
 
 ## Attributes
 - Class - classes it has
+- Src - the source of the audio
 
 ## Support
 
 |           | Napture | Bussinga | YAB  | WXV  | WXB  |
 | --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+| supported | None    | Unknown  | Full | Full | Full |

@@ -22,8 +22,8 @@ If `all` set to true: array of [Element](../element.md)s
 
 ## Support
 
-|      | Napture | Bussinga | YAB  | WXV  |
-| ---- | :-----: | :------: | :--: | :--: |
-| get  | Full    | Full     | Full | Full |
-| name | Full    | Full     | Full | Full |
-| all  | Full    | Full     | Full | Full |
+|      | Napture | Bussinga | YAB  | WXV  | WXB  |
+| ---- | :-----: | :------: | :--: | :--: | :--: |
+| get  | Full    | Full     | Full | Full | Full |
+| name | Full    | Full     | Full | Full | Full |
+| all  | Full    | Full     | Full | Full | Full |

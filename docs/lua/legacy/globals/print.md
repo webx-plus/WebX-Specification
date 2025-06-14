@@ -20,7 +20,7 @@ No return.
 
 ## Support
 
-|       | Napture | Bussinga | YAB  | WXV  |
-| ----- | :-----: | :------: | :--: | :--: |
-| print | Full    | Full     | Full | Full |
-| text  | Full    | Full     | Full | Full |
+|       | Napture | Bussinga | YAB  | WXV  | WXB  |
+| ----- | :-----: | :------: | :--: | :--: | :--: |
+| print | Full    | Full     | Full | Full | Full |
+| text  | Full    | Full     | Full | Full | Full |

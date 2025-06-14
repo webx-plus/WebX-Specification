@@ -8,6 +8,7 @@ This is different from HTML5 and has less features.
 
 ## Elements
 - [a](a.md)
+- [audio](audio.md)
 - [body](body.md)
 - [button](button.md)
 - [div](div.md)

@@ -30,23 +30,23 @@ Events:
 
 ## Support
 
-|              | Napture | Bussinga | YAB  | WXV    |
-| ------------ | :-----: | :------: | :--: | :----: |
-| element      | Full    | Full     | Full | Full   |
-| get_contents | Full    | Full     | Full | Full   |
-| set_contents | Full    | Full *   | Full | Full * |
-| get_content  | Full    | Full     | Full | Full   |
-| set_content  | Full    | Full *   | Full | Full * |
-| get_href     | Full    | Full     | Full | Full   |
-| set_href     | Full    | Full     | Full | Full   |
-| get_source   | Full    | Full     | Full | Full   |
-| set_source   | Full    | Full     | Full | Full   |
-| get_opacity  | Full    | Full     | Full | Full   |
-| set_opacity  | Full    | Full     | Full | Full   |
-| get_css_name | None    | Full     | Full | Full   |
-| set_value    | None    | Full     | Full | Full   |
-| on_click     | Full    | Full     | Full | Full   |
-| on_input     | Full    | Full     | Full | Full   |
-| on_submit    | Full    | Full     | Full | Full   |
+|              | Napture | Bussinga | YAB  | WXV    | WXB    |
+| ------------ | :-----: | :------: | :--: | :----: | :----: |
+| element      | Full    | Full     | Full | Full   | Full   |
+| get_contents | Full    | Full     | Full | Full   | Full   |
+| set_contents | Full    | Full *   | Full | Full * | Full * |
+| get_content  | Full    | Full     | Full | Full   | Full   |
+| set_content  | Full    | Full *   | Full | Full * | Full * |
+| get_href     | Full    | Full     | Full | Full   | Full   |
+| set_href     | Full    | Full     | Full | Full   | Full   |
+| get_source   | Full    | Full     | Full | Full   | Full   |
+| set_source   | Full    | Full     | Full | Full   | Full   |
+| get_opacity  | Full    | Full     | Full | Full   | Full   |
+| set_opacity  | Full    | Full     | Full | Full   | Full   |
+| get_css_name | None    | Full     | Full | Full   | Full   |
+| set_value    | None    | Full     | Full | Full   | Full   |
+| on_click     | Full    | Full     | Full | Full   | Full   |
+| on_input     | Full    | Full     | Full | Full   | Full   |
+| on_submit    | Full    | Full     | Full | Full   | Full   |
 
 *set_content(s) bussinga will set html instead of text (This is [unsafe](https://github.com/inventionpro/Bussinga-attack)), for wxv only if set to bussinga mode
