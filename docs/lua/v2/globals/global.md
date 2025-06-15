@@ -17,6 +17,6 @@ Empty
 
 ## Support
 
-|         | YAB  | WXV  |
-| ------- | :--: | :--: |
-| global  | Full | Full |
+|         | YAB  | WXV  | WXB  |
+| ------- | :--: | :--: | :--: |
+| global  | Full | Full | Full |

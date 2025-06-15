@@ -34,14 +34,13 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|          |  YAB  | WXV  |
-| -------- |  :--: | :--: |
-| location |  Full | Full |
-| href     |  Full | Full |
-| domain   |  Full | Full |
-| protocol |  Full | Full |
-| path     |  Full | Full |
-| query    |  Full | Full |
-| rawQuery |  Full | Full |
-| go       |  Full | Full |
-| path     |  Full | Full |
+|          |  YAB  | WXV  | WXB  |
+| -------- |  :--: | :--: | :--: |
+| location |  Full | Full | Full |
+| href     |  Full | Full | Full |
+| domain   |  Full | Full | Full |
+| protocol |  Full | Full | Full |
+| path     |  Full | Full | Full |
+| query    |  Full | Full | Full |
+| rawQuery |  Full | Full | Full |
+| go       |  Full | Full | Full |

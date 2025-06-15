@@ -17,7 +17,7 @@ No return.
 
 ## Support
 
-|        | YAB  | WXV  |
-| ------ | :--: | :--: |
-| printe | Full | Full |
-| text   | Full | Full |
+|        | YAB  | WXV  | WXB  |
+| ------ | :--: | :--: | :--: |
+| printe | Full | Full | Full |
+| text   | Full | Full | Full |

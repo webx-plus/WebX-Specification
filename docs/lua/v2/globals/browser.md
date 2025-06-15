@@ -29,9 +29,9 @@ Contents:
 
 ## Support
 
-|         | YAB  | WXV  |
-| ------- | :--: | :--: |
-| name    | Full | Full |
-| agent   | Full | Full |
-| version | Full | Full |
-| api     | Full | Full |
+|         | YAB  | WXV  | WXB  |
+| ------- | :--: | :--: | :--: |
+| name    | Full | Full | Full |
+| agent   | Full | Full | Full |
+| version | Full | Full | Full |
+| api     | Full | Full | Full |

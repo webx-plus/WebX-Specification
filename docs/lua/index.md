@@ -9,7 +9,9 @@ The programming language of WebX.
 The lua api is separated in versions, currently [Legacy](legacy/index.md) and [v2](v2/index.md) are available.\
 These can be set like:
 ```html
-<script api="<version>" src="...">
+<script src="..."> <!-- Defaults to legacy -->
+<script api="legacy" src="...">
+<script api="v2" src="...">
 ```
 If no version provided will default to legacy.
 
@@ -21,3 +23,4 @@ If no version provided will default to legacy.
 | [Bussinga](../browsers/bussinga.md) | Yes    | No  |
 | [YAB](../browsers/yab.md)           | Yes    | Yes |
 | [WXV](../browsers/wxv.md)           | Yes    | Yes |
+| [WebXBrowser](../browsers/wxb.md)   | Yes    | Yes |

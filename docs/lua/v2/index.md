@@ -18,8 +18,3 @@ The new lua api that is more powerful easy to work with.
 - [print(text)](globals/print.md)
 - [printe(text)](globals/printe.md)
 - [printw(text)](globals/printw.md)
-
-## Tables
-### Element
-- get_content()
-- set_content(text)
