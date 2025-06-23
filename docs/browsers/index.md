@@ -16,10 +16,10 @@ If you want to participate in browser development, refer to the [guide](dev.md).
 
 ## Other browser info
 
-| Browser     | Lua Engine | Platforms                 | Language |
-| ----------- | ---------- | ------------------------- | -------- |
-| Napture     | Luau       | Windows/Linux             | Rust     |
-| Bussinga    | Wasmoon    | Windows/Linux             | JS       |
-| YAB         | Wasmoon    | Windows/Linux             | JS       |
-| WXV         | Wasmoon    | Web Windows/Linux Android | JS       |
-| WebXBrowser | Wasmoon    | Windows/Linux             | C        |
+| Browser     | Language | Viewer Engine | Lua Engine | Platforms                 |
+| ----------- | -------- | ------------- | ---------- | ------------------------- |
+| Napture     | Rust     | B9            | Luau       | Windows/Linux             |
+| Bussinga    | JS       | Bussinga      | Wasmoon    | Windows/Linux             |
+| YAB         | JS       | YAB Viewer    | Wasmoon    | Windows/Linux             |
+| WXV         | JS       | WXV Core      | Wasmoon    | Web Windows/Linux Android |
+| WebXBrowser | C        | WXV Core      | Wasmoon    | Windows/Linux             |
