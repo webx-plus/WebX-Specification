@@ -1,6 +1,6 @@
 ---
 title: HTML++
-nav_order: 2
+nav_order: 1
 ---
 # HTML++
 The version of html that WebX uses.\

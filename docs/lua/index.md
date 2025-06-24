@@ -1,6 +1,6 @@
 ---
 title: Lua
-nav_order: 4
+nav_order: 3
 ---
 # Lua
 The programming language of WebX.
