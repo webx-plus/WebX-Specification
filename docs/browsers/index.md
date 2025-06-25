@@ -24,4 +24,4 @@ If you want to participate in browser development, refer to the [guide](dev.md).
 | Bussinga    | JS       | Bussinga      | Wasmoon    | Windows/Linux             |
 | YAB         | JS       | YAB Viewer    | Wasmoon    | Windows/Linux             |
 | WXV         | JS       | WXV Core      | Wasmoon    | Web Windows/Linux Android |
-| WebXBrowser | C        | WXV Core      | Wasmoon    | Windows/Linux             |
+| WebXBrowser | C        | WXV Core      | Wasmoon    | Linux                     |
