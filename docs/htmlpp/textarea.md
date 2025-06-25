@@ -3,6 +3,7 @@ title: Textarea
 parent: HTML++
 ---
 # Textarea
+
 A multi line text input.\
 Self-closing.
 
@@ -17,9 +18,11 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 - Placeholder - placeholder text
 

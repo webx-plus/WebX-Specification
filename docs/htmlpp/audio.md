@@ -3,7 +3,8 @@ title: Audio
 parent: HTML++
 ---
 # Audio
-A audio player.\
+
+An audio player.\
 Self-closing.\
 Note: Unlike html, the controls are always shown.
 
@@ -18,9 +19,11 @@ Note: Unlike html, the controls are always shown.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 - Src - the source of the audio
 

@@ -3,6 +3,7 @@ title: Title
 parent: HTML++
 ---
 # Title
+
 The title of the website.
 
 ```html
@@ -16,9 +17,11 @@ The title of the website.
 ```
 
 ## Content
+
 Text
 
 ## Attributes
+
 None
 
 ## Support

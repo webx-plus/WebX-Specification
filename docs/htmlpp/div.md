@@ -3,7 +3,8 @@ title: Div
 parent: HTML++
 ---
 # Div
-A section of content in the site.
+
+A division; a section for any kind of content in the site.
 
 ```html
 <html>
@@ -18,6 +19,7 @@ A section of content in the site.
 ```
 
 ## Children
+
 - [A](a.md)
 - [button](button.md)
 - [Div](div.md)
@@ -34,6 +36,7 @@ A section of content in the site.
 - [UL](ul.md)
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

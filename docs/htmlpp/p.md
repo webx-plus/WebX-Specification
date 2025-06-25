@@ -3,6 +3,7 @@ title: P
 parent: HTML++
 ---
 # P
+
 A paragraph in the site.
 
 ```html
@@ -16,9 +17,11 @@ A paragraph in the site.
 ```
 
 ## Content
+
 Text
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

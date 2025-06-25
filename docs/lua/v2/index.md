@@ -4,9 +4,11 @@ parent: Lua
 nav_order: 1
 ---
 # V2 API
-The new lua api that is more powerful easy to work with.
+
+The new Lua API, which is more powerful easy to work with.
 
 ## Globals
+
 - [browser](globals/browser.md)
 - [global](globals/global.md)
 - [location](globals/location.md)

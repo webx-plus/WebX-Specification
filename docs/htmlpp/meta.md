@@ -3,6 +3,7 @@ title: Meta
 parent: HTML++
 ---
 # Meta
+
 Metadata about the site.\
 Self-closing.
 
@@ -18,14 +19,18 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Name - the name of the metadata to target
 - Content - the content to assign it
 
 ### Name
+
 Currently the following names are supported/used:
+
 - description - a description of the site
 - theme-color - a color to show for embeds
 

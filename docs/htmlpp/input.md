@@ -3,6 +3,7 @@ title: Input
 parent: HTML++
 ---
 # Input
+
 A one line text input.\
 Self-closing.
 
@@ -17,9 +18,11 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 - Placeholder - placeholder text
 - Type - the type of input

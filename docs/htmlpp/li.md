@@ -3,6 +3,7 @@ title: Li
 parent: HTML++
 ---
 # Li
+
 A list item.
 
 ```html
@@ -16,9 +17,11 @@ A list item.
 ```
 
 ## Content
+
 Text
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

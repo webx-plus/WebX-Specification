@@ -3,6 +3,7 @@ title: A
 parent: HTML++
 ---
 # A
+
 An anchor or link in the site.
 
 ```html
@@ -16,9 +17,11 @@ An anchor or link in the site.
 ```
 
 ## Content
+
 Text
 
 ## Attributes
+
 - Class - classes it has
 - HREF - link to another website or page
 

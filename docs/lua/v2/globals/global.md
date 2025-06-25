@@ -3,6 +3,7 @@ title: Global
 parent: V2 API
 ---
 # Lua v2 Global
+
 This global table holds shared data between scripts, it allows you to share variables from one script to others, this is helpful due to [script separation](../../script-separation.md).
 
 ```lua
@@ -13,6 +14,7 @@ global
 | Editable   | Yes    |
 
 ## Contents
+
 Empty
 
 ## Support

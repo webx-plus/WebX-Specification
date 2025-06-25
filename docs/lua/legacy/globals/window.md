@@ -2,11 +2,13 @@
 title: Window
 parent: Legacy API
 ---
+<!--markdownlint-disable md038-->
 # Lua Legacy Window
+
 This global table holds data about some things.
 
 {: .deprecated }
-This is part of the legacy api which is deprecated and no longer mantained.
+This is part of the legacy api which is deprecated and no longer maintained.
 
 ```lua
 window.browser
@@ -17,12 +19,15 @@ window.browser
 | Editable   | Yes    |
 
 ## Contents
+
 - browser - the name of the browser used
-- location - url of the website
+- location - URL of the website
 - query - query parameters
 
 ### Query
+
 The query is a table with key being the param name and value its value. Some important things:
+
 - Duplicate last overwrites others. `?cat=1&cat=2` then `{ cat: '2' }`.
 - Case sensitive. `?Cat=1&cat=2` then `{ Cat: '1', cat: '2' }`.
 - Multi = are not ignored. `?cat=1=2` then `{ cat: '1=2' }`.
