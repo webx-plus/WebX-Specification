@@ -3,6 +3,7 @@ title: Body
 parent: HTML++
 ---
 # Body
+
 The body element of a page which contains the main content about the site.
 
 ```html
@@ -15,6 +16,7 @@ The body element of a page which contains the main content about the site.
 ```
 
 ## Children
+
 - [A](a.md)
 - [button](button.md)
 - [Div](div.md)
@@ -31,6 +33,7 @@ The body element of a page which contains the main content about the site.
 - [UL](ul.md)
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

@@ -3,6 +3,7 @@ title: Button
 parent: HTML++
 ---
 # Button
+
 A button in the site.
 
 ```html
@@ -16,9 +17,11 @@ A button in the site.
 ```
 
 ## Content
+
 Text
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

@@ -3,10 +3,11 @@ title: Fetch
 parent: Legacy API
 ---
 # Lua Legacy Fetch
+
 This global function fetches content from the web in a synchronous way.
 
 {: .deprecated }
-This is part of the legacy api which is deprecated and no longer mantained.
+This is part of the legacy api which is deprecated and no longer maintained.
 
 ```lua
 local res = fetch({
@@ -18,13 +19,15 @@ local res = fetch({
 ```
 
 ## Inputs
+
 - Options
-  - URL - if to get the first or all ocurrences
-  - Method - if to get the first or all ocurrences
-  - Headers - if to get the first or all ocurrences
-  - Body - if to get the first or all ocurrences
+  - URL - if to get the first or all occurrences
+  - Method - if to get the first or all occurrences
+  - Headers - if to get the first or all occurrences
+  - Body - if to get the first or all occurrences
 
 ## Return
+
 String or Table (JSON/Object like structure) depending on the response of the fetch.
 
 ## Support

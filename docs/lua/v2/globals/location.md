@@ -3,7 +3,8 @@ title: Location
 parent: V2 API
 ---
 # Lua v2 Location
-This global table holds data about the url/location.
+
+This global table holds data about the URL/location.
 
 ```lua
 location.href
@@ -14,16 +15,19 @@ location.href
 | Editable   | No     |
 
 ## Contents
-- href - the complete url `buss://website.it/path?query=params`
+
+- href - the complete URL `buss://website.it/path?query=params`
 - domain - the domain `website.it`
 - protocol - protocol `buss`
 - path - path `/path`
 - query - query parameters `{ query: 'params and stuff' }`
 - rawQuery - unparsed query parameters `?query=params%20and%20stuff`
-- go(url) - redirect to another url
+- go(url) - redirect to another URL
 
 ### Query
+
 The query is a table with key being the param name and value its value. Some important things:
+
 - Duplicate last overwrites others. `?cat=1&cat=2` then `{ cat: '1' }`.
 - Case sensitive. `?Cat=1&cat=2` then `{ Cat: '1', cat: '2' }`.
 - Multi = are not ignored. `?cat=1=2` then `{ cat: '1=2' }`.

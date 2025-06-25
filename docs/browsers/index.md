@@ -3,7 +3,8 @@ title: Browsers
 nav_order: 4
 ---
 # Browsers
-All the browsers that work with webx.
+
+All browsers that work with WebX.
 
 - [Napture](napture.md)
 - [Bussinga](bussinga.md)
@@ -12,6 +13,7 @@ All the browsers that work with webx.
 - [WebXBrowser](wxb.md)
 
 ## Browser development
+
 If you want to participate in browser development, refer to the [guide](dev.md).
 
 ## Other browser info

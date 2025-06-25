@@ -3,6 +3,7 @@ title: Img
 parent: HTML++
 ---
 # Img
+
 A image in a site.\
 Self-closing.
 
@@ -17,9 +18,11 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 - Src - the source of the image
 

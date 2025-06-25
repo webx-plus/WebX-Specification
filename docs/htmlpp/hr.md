@@ -3,7 +3,8 @@ title: HR
 parent: HTML++
 ---
 # HR
-A horizontal rule aka a horizontal line.\
+
+A horizontal rule, also known as a horizontal line.\
 Self-closing.
 
 ```html
@@ -17,9 +18,11 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 
 ## Support

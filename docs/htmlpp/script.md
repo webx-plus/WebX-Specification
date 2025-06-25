@@ -3,6 +3,7 @@ title: Script
 parent: HTML++
 ---
 # Script
+
 A script that will run [lua](../lua/index.md) code.\
 Self-closing.
 
@@ -20,14 +21,18 @@ Self-closing.
 ```
 
 ## Content
+
 None
 
 ## Attributes
+
 - Class - classes it has
 - Version - the [lua](../lua/index.md) version to use
 
 ### Version
+
 Can be:
+
 - legacy - for the [legacy](../lua/legacy/index.md) api
 - 2 - for the [v2](../lua/v2/index.md) api
 
