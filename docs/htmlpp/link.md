@@ -24,7 +24,7 @@ None
 
 ## Attributes
 
-- HREF - the url to link to
+- HREF - the URL to link to
 
 ### HREF
 

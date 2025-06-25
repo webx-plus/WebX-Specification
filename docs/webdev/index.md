@@ -6,4 +6,4 @@ nav_order: 6
 
 Articles relating to making websites
 
-- [Switching to Github Pages](githubpages.md)
+- [Switching to GitHub Pages](githubpages.md)
