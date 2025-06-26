@@ -1,5 +1,6 @@
 ---
 title: Bussinga
+description: Bussinga browser
 parent: Browsers
 ---
 # Bussinga

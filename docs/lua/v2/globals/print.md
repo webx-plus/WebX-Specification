@@ -1,5 +1,6 @@
 ---
 title: Print
+description: Lua V2 print
 parent: V2 API
 ---
 # Lua v2 Print
@@ -20,7 +21,7 @@ No return.
 
 ## Support
 
-|       | YAB  | WXV  | WXB  |
-| ----- | :--: | :--: | :--: |
-| print | Full | Full | Full |
-| text  | Full | Full | Full |
+|       | YAB  | WXV Core |
+| ----- | :--: | :------: |
+| print | None | Full     |
+| text  | None | Full     |

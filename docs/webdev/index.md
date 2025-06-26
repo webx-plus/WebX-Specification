@@ -1,5 +1,6 @@
 ---
 title: Web Dev
+description: Website development tips.
 nav_order: 6
 ---
 # Web Dev

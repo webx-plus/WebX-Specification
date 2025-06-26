@@ -1,5 +1,6 @@
 ---
 title: PrintE
+description: Lua V2 printE
 parent: V2 API
 ---
 # Lua v2 PrintE
@@ -20,7 +21,7 @@ No return.
 
 ## Support
 
-|        | YAB  | WXV  | WXB  |
-| ------ | :--: | :--: | :--: |
-| printe | Full | Full | Full |
-| text   | Full | Full | Full |
+|        | YAB  | WXV Core |
+| ------ | :--: | :------: |
+| printe | None | Full     |
+| text   | None | Full     |

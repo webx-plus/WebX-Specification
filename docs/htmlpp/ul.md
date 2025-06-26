@@ -1,5 +1,6 @@
 ---
 title: UL
+description: HTML++ UL
 parent: HTML++
 ---
 # UL
@@ -28,6 +29,6 @@ An unordered list.
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

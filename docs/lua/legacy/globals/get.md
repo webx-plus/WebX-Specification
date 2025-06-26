@@ -1,5 +1,6 @@
 ---
 title: Get
+description: Lua legacy get
 parent: Legacy API
 ---
 # Lua Legacy Get
@@ -25,8 +26,8 @@ If `all` set to true: array of [Element](../element.md)s
 
 ## Support
 
-|      | Napture | Bussinga | YAB  | WXV  | WXB  |
-| ---- | :-----: | :------: | :--: | :--: | :--: |
-| get  | Full    | Full     | Full | Full | Full |
-| name | Full    | Full     | Full | Full | Full |
-| all  | Full    | Full     | Full | Full | Full |
+|      | Napture | Bussinga | YAB  | WXV Core |
+| ---- | :-----: | :------: | :--: | :------: |
+| get  | Full    | Full     | None | Full     |
+| name | Full    | Full     | None | Full     |
+| all  | Full    | Full     | None | Full     |

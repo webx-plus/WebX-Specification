@@ -1,5 +1,6 @@
 ---
 title: V2 API
+description: Lua V2 API specification
 parent: Lua
 nav_order: 1
 ---

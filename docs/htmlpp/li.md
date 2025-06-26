@@ -1,5 +1,6 @@
 ---
 title: Li
+description: HTML++ Li
 parent: HTML++
 ---
 # Li
@@ -26,6 +27,6 @@ Text
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

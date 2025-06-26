@@ -1,5 +1,6 @@
 ---
 title: Script Separation
+description: Lua script separation notice.
 parent: Lua
 nav_order: 3
 ---

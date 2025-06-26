@@ -1,5 +1,6 @@
 ---
 title: Print
+description: Lua legacy print
 parent: Legacy API
 ---
 # Lua Legacy Print
@@ -23,7 +24,7 @@ No return.
 
 ## Support
 
-|       | Napture | Bussinga | YAB  | WXV  | WXB  |
-| ----- | :-----: | :------: | :--: | :--: | :--: |
-| print | Full    | Full     | Full | Full | Full |
-| text  | Full    | Full     | Full | Full | Full |
+|       | Napture | Bussinga | YAB  | WXV Core |
+| ----- | :-----: | :------: | :--: | :------: |
+| print | Full    | Full     | None | Full     |
+| text  | Full    | Full     | None | Full     |

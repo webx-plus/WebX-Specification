@@ -1,5 +1,6 @@
 ---
 title: HTML++
+description: HTML++ specification
 nav_order: 1
 ---
 # HTML++

@@ -1,5 +1,6 @@
 ---
 title: Div
+description: HTML++ Div
 parent: HTML++
 ---
 # Div
@@ -41,6 +42,6 @@ A division; a section for any kind of content in the site.
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

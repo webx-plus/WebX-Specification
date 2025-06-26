@@ -1,5 +1,6 @@
 ---
 title: Window
+description: Lua legacy window table
 parent: Legacy API
 ---
 <!--markdownlint-disable md038-->
@@ -38,12 +39,12 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|              | Napture | Bussinga | YAB      | WXV      | WXB      |
-| ------------ | :-----: | :------: | :------: | :------: | :------: |
-| window       | None    | Full     | Full     | Full     | Full     |
-| browser      | None    | Full     | Full *   | Full *   | Full *   |
-| true_browser | No      | No       | Included | Included | Included |
-| location     | None    | Full     | Full     | Full     | Full     |
-| query        | None    | Full     | Full     | Full     | Full     |
+|              | Napture | Bussinga | YAB      | WXV Core |
+| ------------ | :-----: | :------: | :------: | :------: |
+| window       | None    | Full     | None     | Full     |
+| browser      | None    | Full     | None     | Full *   |
+| true_browser | No      | No       | None     | Included |
+| location     | None    | Full     | None     | Full     |
+| query        | None    | Full     | None     | Full     |
 
 *window.browser imitates bussinga's agent, the true client can be accessed in true_browser

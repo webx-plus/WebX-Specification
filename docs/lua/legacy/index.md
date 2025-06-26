@@ -1,5 +1,6 @@
 ---
 title: Legacy API
+description: Lua legacy API specification
 parent: Lua
 nav_order: 2
 ---

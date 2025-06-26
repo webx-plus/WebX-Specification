@@ -1,5 +1,6 @@
 ---
 title: WebXBrowser
+description: WebX Browser browser
 parent: Browsers
 ---
 # WebXBrowser

@@ -1,5 +1,6 @@
 ---
 title: PrintW
+description: Lua V2 printW
 parent: V2 API
 ---
 # Lua v2 PrintW
@@ -20,7 +21,7 @@ No return.
 
 ## Support
 
-|        | YAB  | WXV  | WXB  |
-| ------ | :--: | :--: | :--: |
-| printw | Full | Full | Full |
-| text   | Full | Full | Full |
+|        | YAB  | WXV Core |
+| ------ | :--: | :------: |
+| printw | None | Full     |
+| text   | None | Full     |

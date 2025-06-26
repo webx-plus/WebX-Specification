@@ -1,8 +1,9 @@
 ---
 title: WXV
+description: WebX Viewer browser
 parent: Browsers
 ---
-# WXV (WebX Viewer)
+# WebX Viewer
 
 A in browser website viewer by inventionpro.
 
@@ -14,7 +15,7 @@ Site: [https://inventionpro.github.io/Webx-viewer](https://inventionpro.github.i
 It also provides a way to include websites in a iframe.
 
 ```html
-<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.frontdoor&bussinga=true"></iframe>
+<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.app&bussinga=true"></iframe>
 ```
 
-<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.frontdoor&bussinga=true" style="width:75%;aspect-ratio:16/9;"></iframe>
+<iframe src="https://inventionpro.github.io/Webx-viewer/embed?url=search.app&bussinga=true" style="width:75%;aspect-ratio:16/9;"></iframe>

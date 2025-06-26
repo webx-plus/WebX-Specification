@@ -1,5 +1,6 @@
 ---
 title: Napture
+description: Napture browser
 parent: Browsers
 ---
 # Napture

@@ -1,5 +1,6 @@
 ---
 title: Link
+description: HTML++ Link
 parent: HTML++
 ---
 # Link
@@ -32,6 +33,6 @@ The first link will be the favicon unless its a [CSS 3.25](../css-3.25/index.md)
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

@@ -1,5 +1,6 @@
 ---
 title: Body
+description: HTML++ Body
 parent: HTML++
 ---
 # Body
@@ -38,6 +39,6 @@ The body element of a page which contains the main content about the site.
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

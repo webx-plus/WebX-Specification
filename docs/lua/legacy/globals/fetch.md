@@ -1,5 +1,6 @@
 ---
 title: Fetch
+description: Lua legacy fetch
 parent: Legacy API
 ---
 # Lua Legacy Fetch
@@ -32,13 +33,13 @@ String or Table (JSON/Object like structure) depending on the response of the fe
 
 ## Support
 
-|                 | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------------- | :-----: | :------: | :--: | :--: | :--: |
-| fetch           | Full    | Full *   | Full | Full | Full |
-| options.url     | Full    | Full     | Full | Full | Full |
-| options.method  | Full *  | Full     | Full | Full | Full |
-| options.headers | Full    | Full     | Full | Full | Full |
-| options.body    | Full    | Full     | Full | Full | Full |
+|                 | Napture | Bussinga | YAB  | WXV Core |
+| --------------- | :-----: | :------: | :--: | :------: |
+| fetch           | Full    | Full *   | None | Full     |
+| options.url     | Full    | Full     | None | Full     |
+| options.method  | Full *  | Full     | None | Full     |
+| options.headers | Full    | Full     | None | Full     |
+| options.body    | Full    | Full     | None | Full     |
 
 *fetch some issues around sync present
 *options.method Napture only supports GET, POST, PUT, DELETE

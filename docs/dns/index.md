@@ -1,5 +1,6 @@
 ---
 title: DNS
+description: DNS specification
 nav_order: 5
 ---
 # DNS

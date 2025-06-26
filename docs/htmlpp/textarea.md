@@ -1,5 +1,6 @@
 ---
 title: Textarea
+description: HTML++ Textarea
 parent: HTML++
 ---
 # Textarea
@@ -28,6 +29,6 @@ None
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

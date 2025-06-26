@@ -1,5 +1,6 @@
 ---
 title: A
+description: HTML++ A
 parent: HTML++
 ---
 # A
@@ -27,6 +28,6 @@ Text
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

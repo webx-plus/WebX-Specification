@@ -1,5 +1,6 @@
 ---
 title: GitHub Pages
+description: How to setup GitHub Pages for your domain.
 parent: Web Dev
 ---
 # GitHub Pages

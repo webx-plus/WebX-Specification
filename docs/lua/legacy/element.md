@@ -1,5 +1,6 @@
 ---
 title: Element
+description: Lua legacy element table
 parent: Legacy API
 ---
 
@@ -35,23 +36,24 @@ Events:
 
 ## Support
 
-|              | Napture | Bussinga | YAB  | WXV    | WXB    |
-| ------------ | :-----: | :------: | :--: | :----: | :----: |
-| element      | Full    | Full     | Full | Full   | Full   |
-| get_contents | Full    | Full     | Full | Full   | Full   |
-| set_contents | Full    | Full *   | Full | Full * | Full * |
-| get_content  | Full    | Full     | Full | Full   | Full   |
-| set_content  | Full    | Full *   | Full | Full * | Full * |
-| get_href     | Full    | Full     | Full | Full   | Full   |
-| set_href     | Full    | Full     | Full | Full   | Full   |
-| get_source   | Full    | Full     | Full | Full   | Full   |
-| set_source   | Full    | Full     | Full | Full   | Full   |
-| get_opacity  | Full    | Full     | Full | Full   | Full   |
-| set_opacity  | Full    | Full     | Full | Full   | Full   |
-| get_css_name | None    | Full     | Full | Full   | Full   |
-| set_value    | None    | Full     | Full | Full   | Full   |
-| on_click     | Full    | Full     | Full | Full   | Full   |
-| on_input     | Full    | Full     | Full | Full   | Full   |
-| on_submit    | Full    | Full     | Full | Full   | Full   |
+|              | Napture | Bussinga | YAB  | WXV Core |
+| ------------ | :-----: | :------: | :--: | :------: |
+| element      | Full    | Full     | None | Full     |
+| get_contents | Full    | Full     | None | Full     |
+| set_contents | Full    | Full *   | None | Full *   |
+| get_content  | Full    | Full     | None | Full     |
+| set_content  | Full    | Full *   | None | Full *   |
+| get_href     | Full    | Full     | None | Full     |
+| set_href     | Full    | Full     | None | Full     |
+| get_source   | Full    | Full     | None | Full     |
+| set_source   | Full    | Full     | None | Full     |
+| get_opacity  | Full    | Full     | None | Full     |
+| set_opacity  | Full    | Full     | None | Full     |
+| get_css_name | None    | Full     | None | Full *   |
+| set_value    | None    | Full     | None | Full *   |
+| on_click     | Full    | Full     | None | Full     |
+| on_input     | Full    | Full     | None | Full     |
+| on_submit    | Full    | Full     | None | Full     |
 
 *set_content(s) bussinga will set HTML instead of text (This is [unsafe](https://github.com/inventionpro/Bussinga-attack)), for WXV only if set to bussinga mode
+*set_value and get_css_name are only available when WXV Core is set to bussinga mode

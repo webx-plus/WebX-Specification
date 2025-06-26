@@ -1,5 +1,6 @@
 ---
 title: Meta
+description: HTML++ Meta
 parent: HTML++
 ---
 # Meta
@@ -38,6 +39,6 @@ Other names can be used but will be ignored by most programs/browsers.
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | Full    | Full     | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

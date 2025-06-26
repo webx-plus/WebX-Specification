@@ -1,5 +1,6 @@
 ---
 title: Browsers
+description: All the browsers that work with WebX.
 nav_order: 4
 ---
 # Browsers

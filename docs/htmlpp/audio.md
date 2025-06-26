@@ -1,5 +1,6 @@
 ---
 title: Audio
+description: HTML++ Audio
 parent: HTML++
 ---
 # Audio
@@ -29,6 +30,6 @@ None
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV  | WXB  |
-| --------- | :-----: | :------: | :--: | :--: | :--: |
-| supported | None    | Unknown  | Full | Full | Full |
+|           | Napture | Bussinga | YAB  | WXV Core |
+| --------- | :-----: | :------: | :--: | :------: |
+| supported | Full    | Full     | Full | Full     |

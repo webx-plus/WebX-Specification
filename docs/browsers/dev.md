@@ -1,5 +1,6 @@
 ---
 title: Browser development
+description: Browser development guidelines and tips
 parent: Browsers
 ---
 # Browser development

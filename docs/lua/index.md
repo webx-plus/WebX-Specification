@@ -1,5 +1,6 @@
 ---
 title: Lua
+description: Lua specification
 nav_order: 3
 ---
 # Lua
@@ -21,7 +22,7 @@ If no version provided will default to legacy.
 
 ## Support
 
-| API Version                         | Legacy | v2  |
+| Browser                             | Legacy | v2  |
 | ----------------------------------- | :----: | :-: |
 | [Napture](../browsers/napture.md)   | Yes    | No  |
 | [Bussinga](../browsers/bussinga.md) | Yes    | No  |

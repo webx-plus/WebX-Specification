@@ -1,5 +1,6 @@
 ---
 title: Location
+description: Lua V2 location table
 parent: V2 API
 ---
 # Lua v2 Location
@@ -38,13 +39,13 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|          |  YAB  | WXV  | WXB  |
-| -------- |  :--: | :--: | :--: |
-| location |  Full | Full | Full |
-| href     |  Full | Full | Full |
-| domain   |  Full | Full | Full |
-| protocol |  Full | Full | Full |
-| path     |  Full | Full | Full |
-| query    |  Full | Full | Full |
-| rawQuery |  Full | Full | Full |
-| go       |  Full | Full | Full |
+|          | YAB  | WXV Core |
+| -------- | :--: | :------: |
+| location | None | Full     |
+| href     | None | Full     |
+| domain   | None | Full     |
+| protocol | None | Full     |
+| path     | None | Full     |
+| query    | None | Full     |
+| rawQuery | None | Full     |
+| go       | None | Full     |

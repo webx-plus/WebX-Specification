@@ -1,5 +1,6 @@
 ---
 title: Global
+description: Lua V2 global table
 parent: V2 API
 ---
 # Lua v2 Global
@@ -19,6 +20,6 @@ Empty
 
 ## Support
 
-|         | YAB  | WXV  | WXB  |
-| ------- | :--: | :--: | :--: |
-| global  | Full | Full | Full |
+|         | YAB  | WXV Core |
+| ------- | :--: | :------: |
+| global  | None | Full     |

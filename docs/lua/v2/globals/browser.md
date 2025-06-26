@@ -1,5 +1,6 @@
 ---
 title: Browser
+description: Lua V2 browser table
 parent: V2 API
 ---
 # Lua v2 Browser
@@ -33,9 +34,9 @@ Contents:
 
 ## Support
 
-|         | YAB  | WXV  | WXB  |
-| ------- | :--: | :--: | :--: |
-| name    | Full | Full | Full |
-| agent   | Full | Full | Full |
-| version | Full | Full | Full |
-| api     | Full | Full | Full |
+|         | YAB  | WXV Core |
+| ------- | :--: | :------: |
+| name    | None | Full     |
+| agent   | None | Full     |
+| version | None | Full     |
+| api     | None | Full     |
