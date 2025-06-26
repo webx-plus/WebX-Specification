@@ -12,6 +12,8 @@ A person that represents each browser with significant market share is part of t
 
 - inventionpro - Developer of [WXV](browsers/wxv.md)
 - LarsIsHere - Developer of [YAB](browsers/yab.md)
+- Jaeger - Co-founder of WebX+ and Developer of [WXB](browsers/wxb.md)
+- lifeisfakenews - Co-founder of WebX+
 
 ## Consideration
 
