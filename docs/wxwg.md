@@ -1,5 +1,6 @@
 ---
 title: WXWG
+description: WebX Working Group, the group that writes the spec and future of WebX.
 nav_order: 7
 ---
 # WebX Working Group
@@ -17,3 +18,4 @@ A person that represents each browser with significant market share is part of t
 Features up for consideration / pending.
 
 - Audio / Video Elements
+- File downloads
