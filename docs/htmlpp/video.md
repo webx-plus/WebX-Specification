@@ -1,11 +1,11 @@
 ---
-title: Audio
-description: HTML++ Audio
+title: Video
+description: HTML++ Video
 parent: HTML++
 ---
-# Audio
+# Video
 
-An audio player.\
+An video player.\
 Self-closing.\
 Note: Unlike html, the controls are always shown.
 
@@ -13,7 +13,7 @@ Note: Unlike html, the controls are always shown.
 <html>
   ...
   <body>
-    <audio src="<url>">
+    <video src="<url>">
     ...
   </body>
 </html>
@@ -21,7 +21,7 @@ Note: Unlike html, the controls are always shown.
 
 ## Attributes
 
-- Src - the source of the audio
+- Src - the source of the video
 
 ## Support
 

@@ -19,6 +19,6 @@ A person that represents each browser with significant market share is part of t
 
 Features up for consideration / pending.
 
-- Audio / Video Elements
+- Audio / Video media controls
 - File downloads
 - Canvas
