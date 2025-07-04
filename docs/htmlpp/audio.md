@@ -19,13 +19,8 @@ Note: Unlike html, the controls are always shown.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
-- Class - classes it has
 - Src - the source of the audio
 
 ## Support

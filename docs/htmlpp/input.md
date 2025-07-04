@@ -18,15 +18,11 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
-- Class - classes it has
 - Placeholder - placeholder text
 - Type - the type of input
+- Disabled - whether the input can be written to
 
 ## Support
 

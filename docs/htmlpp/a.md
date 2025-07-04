@@ -23,7 +23,6 @@ Text
 
 ## Attributes
 
-- Class - classes it has
 - HREF - link to another website or page
 
 ## Support

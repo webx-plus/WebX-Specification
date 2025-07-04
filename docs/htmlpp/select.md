@@ -27,7 +27,7 @@ A input that allows to select between several options.
 
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 

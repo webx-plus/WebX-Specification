@@ -24,8 +24,8 @@ None
 
 ## Attributes
 
-- Class - classes it has
 - Placeholder - placeholder text
+- Disabled - whether the textarea can be written to
 
 ## Support
 

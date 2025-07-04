@@ -18,13 +18,9 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 

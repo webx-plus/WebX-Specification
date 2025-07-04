@@ -19,10 +19,6 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
 - Name - the name of the metadata to target

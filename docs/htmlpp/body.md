@@ -35,7 +35,7 @@ The body element of a page which contains the main content about the site.
 
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 

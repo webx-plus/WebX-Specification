@@ -27,7 +27,6 @@ None
 
 ## Attributes
 
-- Class - classes it has
 - Version - the [lua](../lua/index.md) version to use
 
 ### Version

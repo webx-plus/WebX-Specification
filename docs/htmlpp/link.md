@@ -19,10 +19,6 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
 - HREF - the URL to link to

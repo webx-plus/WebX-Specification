@@ -13,8 +13,8 @@ A option inside a select.
   <body>
     <select>
       <option>A</option>
-      <option>B</option>
-      <option>C</option>
+      <option value="T">B</option>
+      <option disabled>C</option>
     <select>
     ...
   </body>
@@ -27,7 +27,8 @@ Text
 
 ## Attributes
 
-- Class - classes it has
+- Value - it's value
+- Disabled - whether the option can be selected
 
 ## Support
 

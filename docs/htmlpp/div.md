@@ -38,7 +38,7 @@ A division; a section for any kind of content in the site.
 
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 

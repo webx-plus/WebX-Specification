@@ -25,7 +25,7 @@ An unordered list.
 
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 

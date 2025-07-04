@@ -33,6 +33,11 @@ This is different from HTML5 and has less features.
 - [title](title.md)
 - [ul](ul.md)
 
+## Global attributes
+Attributes any element can have:
+- Class - classes it has
+- Id - unique identifier
+
 ## Example
 
 ```html

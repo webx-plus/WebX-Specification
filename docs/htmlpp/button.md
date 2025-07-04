@@ -23,7 +23,7 @@ Text
 
 ## Attributes
 
-- Class - classes it has
+None
 
 ## Support
 
