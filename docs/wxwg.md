@@ -21,3 +21,4 @@ Features up for consideration / pending.
 
 - Audio / Video Elements
 - File downloads
+- Canvas
