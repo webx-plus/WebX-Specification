@@ -5,10 +5,11 @@ nav_order: 5
 ---
 # DNS
 
-Api versioning should be added, if non provided it should default to v1.
+Api versioning should be added, if non provided it should default to v1 and if set to latest should default to the newest supported version.
 
 ## Versions
 
+- [v1](v1.md)
 - [v2](v2.md)
 
 ## Domain names
