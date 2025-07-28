@@ -1,3 +1,4 @@
+/* General */
 .side-bar {
   width: 16.5rem;
   max-width: unset;
@@ -11,6 +12,7 @@
   margin-right: 0px;
 }
 
+/* Tables */
 .table-wrapper {
   width: fit-content;
 }
@@ -22,6 +24,13 @@ td {
   background-color: #34313a;
 }
 
+/* Callouts */
+p.note, blockquote.note, p.deprecated, blockquote.deprecated {
+  width: fit-content;
+  max-width: 100%;
+}
+
+/* Mobile */
 @media (max-width: 800px) {
   .side-bar {
     width: unset;
