@@ -10,6 +10,9 @@ color_scheme: dark
 heading_anchors: true
 
 callouts:
+  note:
+    title: Note
+    color: blue
   deprecated:
     title: Deprecated
     color: red

@@ -21,3 +21,11 @@ The new Lua API, which is more powerful easy to work with.
 - [print(text)](globals/print.md)
 - [printe(text)](globals/printe.md)
 - [printw(text)](globals/printw.md)
+
+## Tables
+
+- [Element](element.md)
+
+## APIs
+
+- [Media Context](media-context.md)

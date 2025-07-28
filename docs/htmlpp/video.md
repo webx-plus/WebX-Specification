@@ -19,6 +19,9 @@ Note: Unlike html, the controls are always shown.
 </html>
 ```
 
+{: .note }
+Autoplay is not a feature with plans of being supported because of miss use on the normal web
+
 ## Attributes
 
 - Src - the source of the video
