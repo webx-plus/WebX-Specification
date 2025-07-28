@@ -34,9 +34,9 @@ Contents:
 
 ## Support
 
-|         | YAB  | WXV Core |
-| ------- | :--: | :------: |
-| name    | None | Full     |
-| agent   | None | Full     |
-| version | None | Full     |
-| api     | None | Full     |
+|         | YAB                    | WXV Core            |
+| ------- | :--------------------: | :-----------------: |
+| name    | <span none>None</span> | <span full>1</span> |
+| agent   | <span none>None</span> | <span full>1</span> |
+| version | <span none>None</span> | <span full>1</span> |
+| api     | <span none>None</span> | <span full>1</span> |

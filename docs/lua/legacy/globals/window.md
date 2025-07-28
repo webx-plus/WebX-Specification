@@ -39,12 +39,12 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|              | Napture | Bussinga | YAB      | WXV Core |
-| ------------ | :-----: | :------: | :------: | :------: |
-| window       | None    | Full     | None     | Full     |
-| browser      | None    | Full     | None     | Full *   |
-| true_browser | No      | No       | None     | Included |
-| location     | None    | Full     | None     | Full     |
-| query        | None    | Full     | None     | Full     |
+|              | Napture                | Bussinga                 | YAB                    | WXV Core              |
+| ------------ | :--------------------: | :----------------------: | :--------------------: | :-------------------: |
+| window       | <span none>None</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span>   |
+| browser      | <span none>None</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1 *</span> |
+| true_browser | <span none>No</span>   | <span none>No</span>     | <span none>No</span>   | <span full>Yes</span> |
+| location     | <span none>None</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span>   |
+| query        | <span none>None</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span>   |
 
 *window.browser imitates bussinga's agent, the true client can be accessed in true_browser

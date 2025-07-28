@@ -29,6 +29,6 @@ The first link will be the favicon unless its a [CSS 3.25](../css-3.25/index.md)
 
 ## Support
 
-|           | Napture | Bussinga | YAB  | WXV Core |
-| --------- | :-----: | :------: | :--: | :------: |
-| supported | Full    | Full     | Full | Full     |
+|           | Napture                  | Bussinga                 | YAB                    | WXV Core            |
+| --------- | :----------------------: | :----------------------: | :--------------------: | :-----------------: |
+| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |

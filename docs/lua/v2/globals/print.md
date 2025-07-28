@@ -21,7 +21,7 @@ No return.
 
 ## Support
 
-|       | YAB  | WXV Core |
-| ----- | :--: | :------: |
-| print | None | Full     |
-| text  | None | Full     |
+|       | YAB                    | WXV Core            |
+| ----- | :--------------------: | :-----------------: |
+| print | <span none>None</span> | <span full>1</span> |
+| text  | <span none>None</span> | <span full>1</span> |

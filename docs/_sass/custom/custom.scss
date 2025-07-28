@@ -26,13 +26,19 @@ td {
 
 /* Support */
 td span[full] {
-  color: green;
+  --content: "✓ ";
+  color: #00d061;
 }
 td span[partial] {
-  color: yellow;
+  --content: "✱ ";
+  color: #e3b935;
 }
 td span[none] {
-  color: red;
+  --content: "⨉ ";
+  color: #f35242;
+}
+td span::before {
+  content: var(--content, "⨉ ");
 }
 
 /* Callouts */

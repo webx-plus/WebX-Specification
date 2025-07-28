@@ -24,7 +24,7 @@ No return.
 
 ## Support
 
-|       | Napture | Bussinga | YAB  | WXV Core |
-| ----- | :-----: | :------: | :--: | :------: |
-| print | Full    | Full     | None | Full     |
-| text  | Full    | Full     | None | Full     |
+|       | Napture                 | Bussinga                 | YAB                    | WXV Core            |
+| ----- | :---------------------: | :----------------------: | :--------------------: | :-----------------: |
+| print | <span full>v1.0.0</span>| <span full>v0.0.1</span> | <span none>none</span> | <span full>1</span> |
+| text  | <span full>v1.0.0</span>| <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |

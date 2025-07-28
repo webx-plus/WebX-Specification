@@ -22,10 +22,10 @@ If no version provided will default to legacy.
 
 ## Support
 
-| Browser                             | Legacy | v2  |
-| ----------------------------------- | :----: | :-: |
-| [Napture](../browsers/napture.md)   | Yes    | No  |
-| [Bussinga](../browsers/bussinga.md) | Yes    | No  |
-| [YAB](../browsers/yab.md)           | Yes    | Yes |
-| [WXV](../browsers/wxv.md)           | Yes    | Yes |
-| [WebXBrowser](../browsers/wxb.md)   | Yes    | Yes |
+| Browser                             | Legacy                | v2                    |
+| ----------------------------------- | :-------------------: | :-------------------: |
+| [Napture](../browsers/napture.md)   | <span full>Yes</span> | <span none>No</span>  |
+| [Bussinga](../browsers/bussinga.md) | <span full>Yes</span> | <span none>No</span>  |
+| [YAB](../browsers/yab.md)           | <span full>Yes</span> | <span full>Yes</span> |
+| [WXV](../browsers/wxv.md)           | <span full>Yes</span> | <span full>Yes</span> |
+| [WebXBrowser](../browsers/wxb.md)   | <span full>Yes</span> | <span full>Yes</span> |
