@@ -24,6 +24,17 @@ td {
   background-color: #34313a;
 }
 
+/* Support */
+td span[full] {
+  color: green;
+}
+td span[partial] {
+  color: yellow;
+}
+td span[none] {
+  color: red;
+}
+
 /* Callouts */
 p.note, blockquote.note, p.deprecated, blockquote.deprecated {
   width: fit-content;

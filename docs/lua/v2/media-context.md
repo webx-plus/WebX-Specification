@@ -46,16 +46,16 @@ Events:
 
 ## Support
 
-|                    | YAB  | WXV Core |
-| ------------------ | :--: | :------: |
-| media_context      | None | Full 1   |
-| audio/video key    | None | Full 1   |
-| lua media_context  | None | Full 1   |
-| paused             | None | Full 1   |
-| duration           | None | Full 1   |
-| current_time       | None | Full 1   |
-| volume             | None | Full 1   |
-| playback_rate      | None | Full 1   |
-| play               | None | Full 1   |
-| pause              | None | Full 1   |
-| on_playback_change | None | Full 1   |
+|                    | YAB                    | WXV Core            |
+| ------------------ | :--------------------: | :-----------------: |
+| media_context      | <span none>None</span> | <span full>1</span> |
+| audio/video key    | <span none>None</span> | <span full>1</span> |
+| lua media_context  | <span none>None</span> | <span full>1</span> |
+| paused             | <span none>None</span> | <span full>1</span> |
+| duration           | <span none>None</span> | <span full>1</span> |
+| current_time       | <span none>None</span> | <span full>1</span> |
+| volume             | <span none>None</span> | <span full>1</span> |
+| playback_rate      | <span none>None</span> | <span full>1</span> |
+| play               | <span none>None</span> | <span full>1</span> |
+| pause              | <span none>None</span> | <span full>1</span> |
+| on_playback_change | <span none>None</span> | <span full>1</span> |
