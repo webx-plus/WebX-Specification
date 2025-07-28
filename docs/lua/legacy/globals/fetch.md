@@ -41,5 +41,5 @@ String or Table (JSON/Object like structure) depending on the response of the fe
 | options.headers | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
 | options.body    | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
 
-*fetch some issues around sync present
+*fetch some issues around sync present\
 *options.method Napture only supports GET, POST, PUT, DELETE
