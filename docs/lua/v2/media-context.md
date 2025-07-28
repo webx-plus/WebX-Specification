@@ -17,7 +17,7 @@ audio.media_context.pause()
 
 ## Lua
 
-You can create a media context in lua via a url.
+You can create a media context in lua via a url, the url can only point to an audio file, video files will not work.
 
 ```lua
 local ctx = media_context('https://.../audio.mp3')
