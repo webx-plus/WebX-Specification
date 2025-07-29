@@ -16,21 +16,21 @@ browser.name
 
 ## Contents
 
-- name - the name of the browser used `Browser name!`
-- agent - a normalized version of the name `browser_name`
-- version - version of the browser used
-- api - a table containing info if the browsers support certain apis
+- name - The name of the browser used `Browser name!`
+- agent - A normalized version of the name `browser_name`
+- version - Version of the browser used
+- api - A table containing info if the browsers support certain apis
 
 ### API
 
 The browser should only return the keys with true of the things it supports, everything else should be undefined.\
 Contents:
 
-- fetch - the [fetch](fetch.md) api
-- get - the [get](get.md) api
-- get_type - refers to [getClass](getclass.md), [getId](getid.md) and [getTag](gettag.md)
-- print - refers to [print](print.md), [printe](printe.md) and [printw](printw.md)
-- fetch - the [fetch](fetch.md) api
+- fetch - The [fetch](fetch.md) api
+- get - The [get](get.md) api
+- get_type - Refers to [get_class](get-class.md), [get_id](get-id.md) and [get_tag](get-tag.md)
+- print - Refers to [print](print.md), [printe](printe.md) and [printw](printw.md)
+- media_context - The [media_context](../media-context.md) api
 
 ## Support
 

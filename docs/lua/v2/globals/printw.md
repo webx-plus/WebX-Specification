@@ -13,7 +13,7 @@ printw('Need more trees')
 
 ## Inputs
 
-- Text - any text to print
+- text - Any text to print
 
 ## Return
 

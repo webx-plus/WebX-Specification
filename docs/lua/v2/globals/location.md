@@ -17,13 +17,13 @@ location.href
 
 ## Contents
 
-- href - the complete URL `buss://website.it/path?query=params`
-- domain - the domain `website.it`
-- protocol - protocol `buss`
-- path - path `/path`
-- query - query parameters `{ query: 'params and stuff' }`
-- rawQuery - unparsed query parameters `?query=params%20and%20stuff`
-- go(url) - redirect to another URL
+- href - The complete URL `buss://website.it/path?query=params`
+- domain - The domain `website.it`
+- protocol - The protocol `buss`
+- path - Path `/path`
+- query - Query parameters `{ query: 'params and stuff' }`
+- rawQuery - Unparsed query parameters `?query=params%20and%20stuff`
+- go(url) - Redirect to another URL
 
 ### Query
 
