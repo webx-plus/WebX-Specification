@@ -1,10 +1,10 @@
 ---
 title: Element
-description: Lua legacy element table
+description: Lua Legacy Element Table
 parent: Legacy API
 ---
 
-# Lua Legacy Element
+# Lua Legacy Element Table
 
 A table representing actions that can be done to a [HTML++](../../htmlpp/index.md) element.
 
