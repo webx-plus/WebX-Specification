@@ -12,7 +12,7 @@ This is part of the legacy api which is deprecated and no longer maintained.
 
 ```lua
 local res = fetch({
-  url = "https://dns-one.webxplus.org/",
+  url = "https://dns.webxplus.org/resolve/search/app",
   method = "GET",
   headers = { ["Content-Type"] = "application/json" },
   body = '{ "test": "cat" }'
@@ -22,10 +22,10 @@ local res = fetch({
 ## Inputs
 
 - Options
-  - URL - if to get the first or all occurrences
-  - Method - if to get the first or all occurrences
-  - Headers - if to get the first or all occurrences
-  - Body - if to get the first or all occurrences
+  - URL - The url to fetch
+  - Method - Any valid http method (Optional)
+  - Headers - Headers to use in the request (Optional)
+  - Body - A body in the request (Ignored for GET and HEAD) (Optional)
 
 ## Return
 
@@ -33,13 +33,13 @@ String or Table (JSON/Object like structure) depending on the response of the fe
 
 ## Support
 
-|                 | Napture                     | Bussinga                    | YAB                    | WXV Core            |
-| --------------- | :-------------------------: | :-------------------------: | :--------------------: | :-----------------: |
-| fetch           | <span full>v1.0.0</span>    | <span partial>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
-| options.url     | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| options.method  | <span partial>v1.0.0</span> | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| options.headers | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| options.body    | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
+|         | Napture                     | Bussinga                    | YAB                    | WXV Core            |
+| ------- | :-------------------------: | :-------------------------: | :--------------------: | :-----------------: |
+| fetch   | <span full>v1.0.0</span>    | <span partial>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
+| url     | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
+| method  | <span partial>v1.0.0</span> | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
+| headers | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
+| body    | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
 
 *fetch some issues around sync present\
-*options.method Napture only supports GET, POST, PUT, DELETE
+*method Napture only supports GET, POST, PUT, DELETE
