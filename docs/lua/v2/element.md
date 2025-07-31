@@ -22,6 +22,7 @@ Events:
 - on_click => callback() - When the element is clicked
 - on_input => callback(value) - When text is written/changed in an input/textarea
 - on_keypress => callback(key) - When a key is pressed inside an element
+- on_load => callback() - When media element loads
 - on_submit => callback(value) - When a form is submitted or enter is pressed on a input
 
 ## Support
@@ -34,4 +35,5 @@ Events:
 | on_click    | <span none>None</span> | <span full>1</span> |
 | on_input    | <span none>None</span> | <span full>1</span> |
 | on_keypress | <span none>None</span> | <span full>1</span> |
+| on_load     | <span none>None</span> | <span full>1</span> |
 | on_submit   | <span none>None</span> | <span full>1</span> |
