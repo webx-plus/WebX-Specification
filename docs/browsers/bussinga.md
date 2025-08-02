@@ -12,8 +12,6 @@ Next repo: [https://github.com/webx-plus/bussinga](https://github.com/webx-plus/
 
 ## Info
 
-|               |               |
-| ------------- | ------------- |
 | Language      | JS            |
 | Viewer Engine | Bussinga      |
 | Lua Engine    | Wasmoon       |
