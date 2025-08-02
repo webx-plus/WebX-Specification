@@ -22,7 +22,7 @@ Set the source of the page, in this case the main branch\
 ## 3. Skip jekyll (Optional)
 
 GitHub by default builds the page with jekyll but WebX does not need this.\
-This can be skipped and make the build faster by creating a empty `.nojekyll` file.
+This can be skipped and make the build faster by creating a empty `.nojekyll` file in the root folder.
 
 ## 4. Done
 
