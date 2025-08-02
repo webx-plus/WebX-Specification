@@ -3,8 +3,17 @@ title: YAB
 description: YAB browser
 parent: Browsers
 ---
-# YAB (Yet Another Browser)
+# Yet Another Browser (YAB)
 
-A modern browser with many options made by LarsIsHere and inventionpro.
+A modern browser with many options made mainly by LarsIsHere with help from inventionpro.
 
 Repo: [https://github.com/YAB-org/Browser](https://github.com/YAB-org/Browser)
+
+## Info
+
+|               |               |
+| ------------- | ------------- |
+| Language      | JS            |
+| Viewer Engine | YAB Viewer    |
+| Lua Engine    | Wasmoon as    |
+| Platforms     | Windows/Linux |

@@ -3,12 +3,21 @@ title: WXV
 description: WebX Viewer browser
 parent: Browsers
 ---
-# WebX Viewer
+# WebX Viewer (WXV)
 
 A in browser website viewer by inventionpro.
 
 Repo: [https://github.com/inventionpro/Webx-viewer](https://github.com/inventionpro/Webx-viewer) \
 Site: [https://inventionpro.github.io/Webx-viewer](https://inventionpro.github.io/Webx-viewer)
+
+## Info
+
+|               |                           |
+| ------------- | ------------------------- |
+| Language      | JS                        |
+| Viewer Engine | WXV Core                  |
+| Lua Engine    | Wasmoon as                |
+| Platforms     | Web Windows/Linux Android |
 
 ## Additional
 

@@ -9,3 +9,12 @@ A famous browser with more capabilities than napture originally made by codingMA
 
 Original repo: [https://github.com/codingMASTER398/bussinga](https://github.com/codingMASTER398/bussinga) \
 Next repo: [https://github.com/webx-plus/bussinga](https://github.com/webx-plus/bussinga)
+
+## Info
+
+|               |               |
+| ------------- | ------------- |
+| Language      | JS            |
+| Viewer Engine | Bussinga      |
+| Lua Engine    | Wasmoon       |
+| Platforms     | Windows/Linux |
