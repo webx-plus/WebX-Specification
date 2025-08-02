@@ -31,12 +31,24 @@ where:
 - name - is the [browser.agent](../lua/v2/globals/browser.md)
 - feature - the name of the feature (we_use_this_type_of_naming)
 
-Prefix feature use.\
+Prefix feature use like follows.
+
+### Lua
+
 Lets say you add `delete_system32` api inside browser\
 Then it should look like:
 
 ```lua
 browser._{name}_delete_system32()
+```
+
+### CSS
+
+Lets say you add `tilt` css property\
+Then it should look like:
+
+```css
+-{name}-tilt: 5px;
 ```
 
 ## Choosing a lua engine

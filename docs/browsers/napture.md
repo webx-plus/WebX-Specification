@@ -11,8 +11,6 @@ Repo: [https://github.com/face-hh/webx](https://github.com/face-hh/webx)
 
 ## Info
 
-|               |               |
-| ------------- | ------------- |
 | Language      | Rust          |
 | Viewer Engine | B9            |
 | Lua Engine    | Luau          |

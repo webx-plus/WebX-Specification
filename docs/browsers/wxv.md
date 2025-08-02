@@ -12,8 +12,6 @@ Site: [https://inventionpro.github.io/Webx-viewer](https://inventionpro.github.i
 
 ## Info
 
-|               |                           |
-| ------------- | ------------------------- |
 | Language      | JS                        |
 | Viewer Engine | WXV Core                  |
 | Lua Engine    | Wasmoon as                |

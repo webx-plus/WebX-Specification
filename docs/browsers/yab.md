@@ -11,8 +11,6 @@ Repo: [https://github.com/YAB-org/Browser](https://github.com/YAB-org/Browser)
 
 ## Info
 
-|               |               |
-| ------------- | ------------- |
 | Language      | JS            |
 | Viewer Engine | YAB Viewer    |
 | Lua Engine    | Wasmoon as    |
