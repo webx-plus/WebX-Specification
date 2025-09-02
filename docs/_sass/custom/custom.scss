@@ -24,6 +24,12 @@ td {
   background-color: #34313a;
 }
 
+div[vc] {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
 /* Support */
 td span[full] {
   --content: "✓ ";
