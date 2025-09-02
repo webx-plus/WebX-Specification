@@ -43,7 +43,7 @@ td span[none] {
   --content: "⨉ ";
   color: #f35242;
 }
-td span::before {
+td span:not([vc])::before {
   content: var(--content, "⨉ ");
 }
 
