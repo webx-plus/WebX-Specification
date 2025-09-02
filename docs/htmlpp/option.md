@@ -15,7 +15,7 @@ A option inside a select.
       <option>A</option>
       <option value="T">B</option>
       <option disabled>C</option>
-    <select>
+    </select>
     ...
   </body>
 </html>

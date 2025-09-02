@@ -13,9 +13,9 @@ A input that allows to select between several options.
   <body>
     <select>
       <option>A</option>
-      <option>B</option>
-      <option>C</option>
-    <select>
+      <option value="T">B</option>
+      <option disabled>C</option>
+    </select>
     ...
   </body>
 </html>
