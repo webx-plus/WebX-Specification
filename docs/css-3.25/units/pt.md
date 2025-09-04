@@ -1,20 +1,20 @@
 ---
-title: Px
-description: CSS px unit
+title: Pt
+description: CSS pt unit
 parent: Units
 ---
-# Px
+# Pt
 
-A [\<size>](../data-types/size.md) type unit that defines a length, size or dimension value in pixels.
+A [\<size>](../data-types/size.md) type unit that defines a length, size or dimension value in points.
 
 ```css
-<number>px
-12px
+<number>pt
+14pt
 ```
 
 ## Syntax
 
-`<number>px`
+`<number>pt`
 
 Any number, positive or negative.
 

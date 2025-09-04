@@ -1,22 +1,20 @@
 ---
-title: Px
-description: CSS px unit
-parent: Units
+title: Color
+description: CSS color data type
+parent: Data Types
 ---
-# Px
+# \<color>
 
-A [\<size>](../data-types/size.md) type unit that defines a length, size or dimension value in pixels.
+A type that defines a color value.
 
 ```css
-<number>px
-12px
+<color>
+#ff00ff
 ```
 
-## Syntax
+## Units
 
-`<number>px`
-
-Any number, positive or negative.
+- [hex rgba](../units/hex-rgba.md)
 
 ## Support
 

@@ -9,5 +9,7 @@ CSS properties that can be used to define apearence related things in the page.
 
 ## Properties
 
+- [background color](background-color.md)
+- [color](color.md)
 - [height](height.md)
 - [width](width.md)

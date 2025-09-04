@@ -9,4 +9,6 @@ CSS units that can be used by properties.
 
 ## Types
 
+- [hex rgba](hex-rgba.md)
+- [pt](pt.md)
 - [px](px.md)
