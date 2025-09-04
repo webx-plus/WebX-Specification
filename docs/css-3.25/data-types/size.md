@@ -1,6 +1,6 @@
 ---
-title: &lt;size>
-description: CSS &lt;size> data type
+title: Size
+description: CSS size data type
 parent: Data Types
 ---
 # \<size>
