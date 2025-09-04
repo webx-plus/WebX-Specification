@@ -8,7 +8,7 @@ parent: Units
 A [\<size>](../data-types/size.md) type unit that defines a length, size or dimension value.
 
 ```css
-\<number>px
+<number>px
 12px
 ```
 

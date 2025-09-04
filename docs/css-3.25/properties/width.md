@@ -8,7 +8,7 @@ parent: Properties
 Defineds the horizontal size of a element.
 
 ```css
-width: \<size>;
+width: <size>;
 width: 12px;
 ```
 

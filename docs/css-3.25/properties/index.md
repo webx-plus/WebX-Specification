@@ -9,4 +9,5 @@ CSS properties that can be used to define apearence related things in the page.
 
 ## Properties
 
+- [height](height.md)
 - [width](width.md)

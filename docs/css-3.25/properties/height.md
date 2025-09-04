@@ -3,12 +3,12 @@ title: Height
 description: CSS height property
 parent: Properties
 ---
-# Width
+# Height
 
 Defineds the vertical size of a element.
 
 ```css
-height: \<size>;
+height: <size>;
 height: 12px;
 ```
 

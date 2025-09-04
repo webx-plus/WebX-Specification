@@ -1,6 +1,6 @@
 ---
-title: <size>
-description: CSS <size> data type
+title: \<size>
+description: CSS \<size> data type
 parent: Data Types
 ---
 # \<size>
@@ -8,7 +8,7 @@ parent: Data Types
 A type that defines a length, size or dimension value.
 
 ```css
-\<size>
+<size>
 12px
 ```
 
