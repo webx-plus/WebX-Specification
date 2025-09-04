@@ -9,4 +9,4 @@ CSS data types define different types of values (including keywords and units) a
 
 ## Types
 
-- [<size>](size.md)
+- [\<size>](size.md)
