@@ -5,7 +5,7 @@ parent: HTML++
 ---
 # Meta
 
-Metadata about the site.\
+Metadata about the site that shows in search engines.\
 Self-closing.
 
 ```html

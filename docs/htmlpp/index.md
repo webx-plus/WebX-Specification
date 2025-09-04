@@ -33,6 +33,10 @@ This is different from HTML5 and has less features.
 - [title](title.md)
 - [ul](ul.md)
 
+### Missing elements
+
+If a element not in the list is used it should be treated the same as a [div](div.md)
+
 ## Global attributes
 Attributes any element can have:
 - Class - classes it has
@@ -59,12 +63,9 @@ Attributes any element can have:
 </html>
 ```
 
-Unlike HTML5, HTML++:
+## HTML5 and HTML++ differences
 
 - doesn't have a `<!DOCTYPE html>`
 - doesn't have a rel attribute for [link](link.md), the first link will be the favicon unless its a [CSS 3.25](../css-3.25/index.md) file, the rest will just be treated as [CSS 3.25](../css-3.25/index.md).
 - [scripts](script.md) are self-closing, are written in [lua](../lua/index.md) and they can only point to code on another file.
-
-Other:
-
-- the [meta](meta.md) elements provide info for search engines
+- [video](video.md), [audio](audio.md) and [textarea](textarea.md) are self closing.
