@@ -12,6 +12,7 @@ Representation of a element in the lua v2 script
 Properties:
 
 - content - The text inside a element, value of a input/textarea/select or src of a img/audio/video
+- media_context - Only for audio/video, [more info here](./media-context.md)
 
 Functions:
 
@@ -27,13 +28,14 @@ Events:
 
 ## Support
 
-|             | YAB                    | WXV Core            |
-| ----------- | :--------------------: | :-----------------: |
-| element     | <span none>None</span> | <span full>1</span> |
-| content     | <span none>None</span> | <span full>1</span> |
-| remove      | <span none>None</span> | <span full>1</span> |
-| on_click    | <span none>None</span> | <span full>1</span> |
-| on_input    | <span none>None</span> | <span full>1</span> |
-| on_keypress | <span none>None</span> | <span full>1</span> |
-| on_load     | <span none>None</span> | <span full>1</span> |
-| on_submit   | <span none>None</span> | <span full>1</span> |
+|               | YAB                    | WXV Core            |
+| ------------- | :--------------------: | :-----------------: |
+| element       | <span none>None</span> | <span full>1</span> |
+| content       | <span none>None</span> | <span full>1</span> |
+| media_context | <span none>None</span> | <span full>1</span> |
+| remove        | <span none>None</span> | <span full>1</span> |
+| on_click      | <span none>None</span> | <span full>1</span> |
+| on_input      | <span none>None</span> | <span full>1</span> |
+| on_keypress   | <span none>None</span> | <span full>1</span> |
+| on_load       | <span none>None</span> | <span full>1</span> |
+| on_submit     | <span none>None</span> | <span full>1</span> |

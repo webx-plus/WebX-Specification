@@ -20,6 +20,7 @@ browser.name
 - agent - A normalized version of the name `browser_name`
 - version - Version of the browser used
 - api - A table containing info if the browsers support certain apis
+- storage - A way to store data, [refer to here](../storage.md)
 
 ### API
 
@@ -40,3 +41,4 @@ Contents:
 | agent   | <span none>None</span> | <span full>1</span> |
 | version | <span none>None</span> | <span full>1</span> |
 | api     | <span none>None</span> | <span full>1</span> |
+| storage | <span none>None</span> | <span full>2</span> |
