@@ -37,10 +37,10 @@ A table with various values about the response.
 
 ## Support
 
-|         | YAB                    | WXV Core            |
-| ------- | :--------------------: | :-----------------: |
-| fetch   | <span none>None</span> | <span full>1</span> |
-| url     | <span none>None</span> | <span full>1</span> |
-| method  | <span none>None</span> | <span full>1</span> |
-| headers | <span none>None</span> | <span full>1</span> |
-| body    | <span none>None</span> | <span full>1</span> |
+|         | WXV Core            |
+| ------- | :-----------------: |
+| fetch   | <span full>1</span> |
+| url     | <span full>1</span> |
+| method  | <span full>1</span> |
+| headers | <span full>1</span> |
+| body    | <span full>1</span> |

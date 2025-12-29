@@ -20,6 +20,6 @@ Empty
 
 ## Support
 
-|         | YAB                    | WXV Core            |
-| ------- | :--------------------: | :-----------------: |
-| global  | <span none>None</span> | <span full>1</span> |
+|         | WXV Core            |
+| ------- | :-----------------: |
+| global  | <span full>1</span> |

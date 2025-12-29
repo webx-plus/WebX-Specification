@@ -22,6 +22,6 @@ Some browsers allow properties that require sizes to have no unit attached and w
 
 ## Support
 
-|           | Napture                  | Bussinga                 | YAB                    | WXV Core            |
-| --------- | :----------------------: | :----------------------: | :--------------------: | :-----------------: |
-| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
+|           | Napture                  | Bussinga                 | WXV Core            |
+| --------- | :----------------------: | :----------------------: | :-----------------: |
+| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |

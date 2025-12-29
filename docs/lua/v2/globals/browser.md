@@ -35,10 +35,10 @@ Contents:
 
 ## Support
 
-|         | YAB                    | WXV Core            |
-| ------- | :--------------------: | :-----------------: |
-| name    | <span none>None</span> | <span full>1</span> |
-| agent   | <span none>None</span> | <span full>1</span> |
-| version | <span none>None</span> | <span full>1</span> |
-| api     | <span none>None</span> | <span full>1</span> |
-| storage | <span none>None</span> | <span full>2</span> |
+|         | WXV Core            |
+| ------- | :-----------------: |
+| name    | <span full>1</span> |
+| agent   | <span full>1</span> |
+| version | <span full>1</span> |
+| api     | <span full>1</span> |
+| storage | <span full>2</span> |

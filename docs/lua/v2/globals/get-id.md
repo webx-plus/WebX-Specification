@@ -8,7 +8,7 @@ parent: V2 API
 This global function gets an element based on text passed to it.
 
 ```lua
-print('Hello')
+get_id('elemid')
 ```
 
 ## Inputs
@@ -17,11 +17,11 @@ print('Hello')
 
 ## Return
 
-A [Element](../element.md)
+An [Element](../element.md)
 
 ## Support
 
-|        | YAB                    | WXV Core            |
-| ------ | :--------------------: | :-----------------: |
-| get_id | <span none>None</span> | <span full>1</span> |
-| id     | <span none>None</span> | <span full>1</span> |
+|        | WXV Core            |
+| ------ | :-----------------: |
+| get_id | <span full>1</span> |
+| id     | <span full>1</span> |

@@ -26,6 +26,5 @@ If no version provided will default to legacy.
 | ----------------------------------- | :-------------------: | :-------------------: |
 | [Napture](../browsers/napture.md)   | <span full>Yes</span> | <span none>No</span>  |
 | [Bussinga](../browsers/bussinga.md) | <span full>Yes</span> | <span none>No</span>  |
-| [YAB](../browsers/yab.md)           | <span full>Yes</span> | <span full>Yes</span> |
 | [WXV](../browsers/wxv.md)           | <span full>Yes</span> | <span full>Yes</span> |
 | [WebXBrowser](../browsers/wxb.md)   | <span full>Yes</span> | <span full>Yes</span> |

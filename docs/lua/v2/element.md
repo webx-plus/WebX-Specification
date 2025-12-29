@@ -28,14 +28,14 @@ Events:
 
 ## Support
 
-|               | YAB                    | WXV Core            |
-| ------------- | :--------------------: | :-----------------: |
-| element       | <span none>None</span> | <span full>1</span> |
-| content       | <span none>None</span> | <span full>1</span> |
-| media_context | <span none>None</span> | <span full>1</span> |
-| remove        | <span none>None</span> | <span full>1</span> |
-| on_click      | <span none>None</span> | <span full>1</span> |
-| on_input      | <span none>None</span> | <span full>1</span> |
-| on_keypress   | <span none>None</span> | <span full>1</span> |
-| on_load       | <span none>None</span> | <span full>1</span> |
-| on_submit     | <span none>None</span> | <span full>1</span> |
+|               | WXV Core            |
+| ------------- | :-----------------: |
+| element       | <span full>1</span> |
+| content       | <span full>1</span> |
+| media_context | <span full>1</span> |
+| remove        | <span full>1</span> |
+| on_click      | <span full>1</span> |
+| on_input      | <span full>1</span> |
+| on_keypress   | <span full>1</span> |
+| on_load       | <span full>1</span> |
+| on_submit     | <span full>1</span> |

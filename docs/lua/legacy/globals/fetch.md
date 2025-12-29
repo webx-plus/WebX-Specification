@@ -33,13 +33,13 @@ String or Table (JSON/Object like structure) depending on the response of the fe
 
 ## Support
 
-|         | Napture                     | Bussinga                    | YAB                    | WXV Core            |
-| ------- | :-------------------------: | :-------------------------: | :--------------------: | :-----------------: |
-| fetch   | <span full>v1.0.0</span>    | <span partial>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
-| url     | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| method  | <span partial>v1.0.0</span> | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| headers | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
-| body    | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span none>None</span> | <span full>1</span> |
+|         | Napture                     | Bussinga                    | WXV Core            |
+| ------- | :-------------------------: | :-------------------------: | :-----------------: |
+| fetch   | <span full>v1.0.0</span>    | <span partial>v0.0.1</span> | <span full>1</span> |
+| url     | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span full>1</span> |
+| method  | <span partial>v1.0.0</span> | <span full>v0.0.1</span>    | <span full>1</span> |
+| headers | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span full>1</span> |
+| body    | <span full>v1.0.0</span>    | <span full>v0.0.1</span>    | <span full>1</span> |
 
-*fetch some issues around sync present\
+*fetch Bussinga has some issues around async present\
 *method Napture only supports GET, POST, PUT, DELETE

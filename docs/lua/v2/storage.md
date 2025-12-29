@@ -19,10 +19,10 @@ Functions:
 
 ## Support
 
-|         | YAB                    | WXV Core            |
-| ------- | :--------------------: | :-----------------: |
-| storage | <span none>None</span> | <span full>2</span> |
-| get     | <span none>None</span> | <span full>2</span> |
-| set     | <span none>None</span> | <span full>2</span> |
-| remove  | <span none>None</span> | <span full>2</span> |
-| all     | <span none>None</span> | <span full>2</span> |
+|         | WXV Core            |
+| ------- | :-----------------: |
+| storage | <span full>2</span> |
+| get     | <span full>2</span> |
+| set     | <span full>2</span> |
+| remove  | <span full>2</span> |
+| all     | <span full>2</span> |

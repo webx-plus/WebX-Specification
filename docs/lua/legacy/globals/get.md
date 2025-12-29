@@ -26,8 +26,8 @@ If `all` set to true: array of [Element](../element.md)s
 
 ## Support
 
-|      | Napture                  | Bussinga                 | YAB                    | WXV Core            |
-| ---- | :----------------------: | :----------------------: | :--------------------: | :-----------------: |
-| get  | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
-| name | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
-| all  | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span none>None</span> | <span full>1</span> |
+|      | Napture                  | Bussinga                 | WXV Core            |
+| ---- | :----------------------: | :----------------------: | :-----------------: |
+| get  | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+| name | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+| all  | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |

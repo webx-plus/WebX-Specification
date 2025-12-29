@@ -39,13 +39,13 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|          | YAB                    | WXV Core            |
-| -------- | :--------------------: | :-----------------: |
-| location | <span none>None</span> | <span full>1</span> |
-| href     | <span none>None</span> | <span full>1</span> |
-| domain   | <span none>None</span> | <span full>1</span> |
-| protocol | <span none>None</span> | <span full>1</span> |
-| path     | <span none>None</span> | <span full>1</span> |
-| query    | <span none>None</span> | <span full>1</span> |
-| rawQuery | <span none>None</span> | <span full>1</span> |
-| go       | <span none>None</span> | <span full>1</span> |
+|          | WXV Core            |
+| -------- | :-----------------: |
+| location | <span full>1</span> |
+| href     | <span full>1</span> |
+| domain   | <span full>1</span> |
+| protocol | <span full>1</span> |
+| path     | <span full>1</span> |
+| query    | <span full>1</span> |
+| rawQuery | <span full>1</span> |
+| go       | <span full>1</span> |
