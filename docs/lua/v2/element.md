@@ -11,7 +11,7 @@ Representation of a element in the lua v2 script
 
 Properties:
 
-- content - The text inside a element, value of a input/textarea/select or src of a img/audio/video
+- content - The text inside a element, value of a [input](../../htmlpp/input.md)/[textarea](../../htmlpp/textarea.md)/[select](../../htmlpp/select.md) or src of a [img](../../htmlpp/img.md)/[audio](../../htmlpp/audio.md)/[video](../../htmlpp/video.md)
 - media_context - Only for audio/video, [more info here](./media-context.md)
 
 Functions:
