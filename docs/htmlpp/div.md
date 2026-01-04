@@ -21,7 +21,9 @@ A division; a section for any kind of content in the site.
 
 ## Children
 
+- Text
 - [A](a.md)
+- [Audio](audio.md)
 - [button](button.md)
 - [Div](div.md)
 - [H1-6](h1-6.md)
@@ -35,6 +37,7 @@ A division; a section for any kind of content in the site.
 - [Select](select.md)
 - [Textarea](textarea.md)
 - [UL](ul.md)
+- [Video](video.md)
 
 ## Attributes
 

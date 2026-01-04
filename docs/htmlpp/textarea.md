@@ -18,10 +18,6 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
 - Placeholder - placeholder text

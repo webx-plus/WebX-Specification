@@ -19,7 +19,9 @@ A list item.
 
 ## Content
 
-Text
+- Text
+- [UL](ul.md)
+- [OL](ol.md)
 
 ## Attributes
 

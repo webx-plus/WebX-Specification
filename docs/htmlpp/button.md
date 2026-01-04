@@ -20,7 +20,8 @@ A button in the site.
 
 ## Content
 
-Text
+- Text
+- [Img](img.md)
 
 ## Attributes
 

@@ -19,6 +19,7 @@ The body element of a page which contains the main content about the site.
 ## Children
 
 - [A](a.md)
+- [Audio](audio.md)
 - [button](button.md)
 - [Div](div.md)
 - [H1-6](h1-6.md)
@@ -32,6 +33,7 @@ The body element of a page which contains the main content about the site.
 - [Select](select.md)
 - [Textarea](textarea.md)
 - [UL](ul.md)
+- [Video](video.md)
 
 ## Attributes
 

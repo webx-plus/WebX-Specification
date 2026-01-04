@@ -19,7 +19,7 @@ The title of the website.
 
 ## Content
 
-Text
+- Text
 
 ## Attributes
 

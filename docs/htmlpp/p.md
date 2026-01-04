@@ -19,7 +19,7 @@ A paragraph in the site.
 
 ## Content
 
-Text
+- Text
 
 ## Attributes
 

@@ -21,10 +21,6 @@ Self-closing.
 </html>
 ```
 
-## Content
-
-None
-
 ## Attributes
 
 - Src - the source of the script

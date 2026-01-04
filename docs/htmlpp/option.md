@@ -23,7 +23,7 @@ A option inside a select.
 
 ## Content
 
-Text
+- Text
 
 ## Attributes
 
