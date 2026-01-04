@@ -12,7 +12,7 @@ Self-closing.
 <html>
   ...
   <body>
-    <textarea>
+    <textarea placeholder="Write a lot">
     ...
   </body>
 </html>

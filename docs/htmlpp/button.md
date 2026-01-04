@@ -12,6 +12,7 @@ A button in the site.
   ...
   <body>
     <button>Click me</button>
+    <button disabled>Click me not</button>
     ...
   </body>
 </html>

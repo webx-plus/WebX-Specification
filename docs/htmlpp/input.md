@@ -12,7 +12,8 @@ Self-closing.
 <html>
   ...
   <body>
-    <input>
+    <input type="text" placeholder="Hi">
+    <input type="number" placeholder="Locked" disabled>
     ...
   </body>
 </html>

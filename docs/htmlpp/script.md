@@ -27,6 +27,7 @@ None
 
 ## Attributes
 
+- Src - the source of the script
 - Version - the [lua](../lua/index.md) version to use
 
 ### Version
