@@ -12,6 +12,7 @@ Representation of a element in the lua v2 script
 Properties:
 
 - content - The text inside a element, value of a [input](../../htmlpp/input.md)/[textarea](../../htmlpp/textarea.md)/[select](../../htmlpp/select.md) or src of a [img](../../htmlpp/img.md)/[audio](../../htmlpp/audio.md)/[video](../../htmlpp/video.md)
+- tag - The element's tag
 - media_context - Only for audio/video, [more info here](./media-context.md)
 
 Functions:
@@ -32,6 +33,7 @@ Events:
 | ------------- | :-----------------: |
 | element       | <span full>1</span> |
 | content       | <span full>1</span> |
+| tag           | <span full>3</span> |
 | media_context | <span full>1</span> |
 | remove        | <span full>1</span> |
 | on_click      | <span full>1</span> |
