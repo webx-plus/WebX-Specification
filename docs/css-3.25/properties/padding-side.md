@@ -1,5 +1,5 @@
 ---
-title: Pargin Side
+title: Padding Side
 description: CSS padding side property
 parent: Properties
 ---
@@ -8,13 +8,13 @@ parent: Properties
 Defineds a padding for a specific side applied to this element.
 
 ```css
-padding-[size]: <size>;
+padding-[side]: <size>;
 padding-top: 12px;
 ```
 
 ## Syntax
 
-`padding-[size]: <size>;`
+`padding-[side]: <size>;`
 
 Side can be top, right, bottom or left.\
 Value must be of type [\<size>](../data-types/size.md).
