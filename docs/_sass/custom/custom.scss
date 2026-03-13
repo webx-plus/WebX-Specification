@@ -1,4 +1,18 @@
 /* General */
+:root {
+  --green: #00d061;
+  --yellow: #e3b935;
+  --red: #f35242;
+}
+  color: ;
+}
+#support td [partial] {
+  --content: "✱ ";
+  color: #;
+}
+#support td [none] {
+  --content: "⨉ ";
+  color: #;
 #site-nav {
   padding: 1rem 0px;
 }
@@ -36,15 +50,15 @@ span[vc] {
 /* Support */
 #support td [full] {
   --content: "✓ ";
-  color: #00d061;
+  color: var(--green);
 }
 #support td [partial] {
   --content: "✱ ";
-  color: #e3b935;
+  color: var(--yellow);
 }
 #support td [none] {
   --content: "⨉ ";
-  color: #f35242;
+  color: var(--red);
 }
 #support td *::before {
   content: var(--content, "⨉ ");

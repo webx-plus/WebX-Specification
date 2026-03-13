@@ -28,8 +28,4 @@ Autoplay is not a feature with plans of being supported because of miss use on t
 
 ## Support
 
-|           | Napture                | Bussinga                    | WXV Core            |
-| --------- | :--------------------: | :-------------------------: | :-----------------: |
-| supported | <span none>None</span> | <span partial>v0.0.1</span> | <span full>1</span> |
-
 {% include support.html table="htmlpp/audio" legacy="true" %}

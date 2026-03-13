@@ -1,16 +1,17 @@
 ---
 ---
-<table id="support" legacy="{{ include.legacy }}">
+<table id="support-table" legacy="{{ include.legacy }}">
   <tr>
     <th>&nbsp;</th>
-    <th style="text-align: center" legacy>Napture</th>
-    <th style="text-align: center" legacy>Bussinga</th>
-    <th style="text-align: center">WXV Core</th>
+    <th style="text-align:center" legacy>Napture</th>
+    <th style="text-align:center" legacy>Bussinga</th>
+    <th style="text-align:center">WXV Core</th>
   </tr>
 </table>
 <script>
   let data = localStorage.getItem('support-data');
   const typeToParam = { n: 'none', p: 'partial', f: 'full' };
+  const legacy = {{ include.legacy }};
   function loadTable() {
     data = JSON.parse(data);
     let key = '{{ include.table }}'.split('/');
@@ -18,12 +19,28 @@
       let type = value.split('-')[0];
       return `<${type==='p'?'details><summary':'span'} ${typeToParam[type]}>${type==='n'?'None':value.split('-')[1]}</${type==='p'?`summary>${value.split('-')[2]}</details>`:'span'}>`;
     };
-    document.getElementById('support').innerHTML += Object.keys(data[key[0]][key[1]])
+    let isBaseline = (ver, browser)=>{
+      ver = ver.split('.');
+      let base = data.baseline[browser].split('.');
+      ver.forEach((seg,i)=>{
+        if (Number(seg)>Number(base[i])) return false;
+      });
+      return true;
+    };
+    document.getElementById('support-table').insertAdjacentHTML('beforeend', Object.keys(data[key[0]][key[1]])
       .map(key=>`<tr>
   <td>${key}</td>
   ${Object.keys(data[key[0]][key[1]][key]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)?' legacy':''}>${support(data[key[0]][key[1]][key][browser])}</td>`).join('')}
 </tr>`)
-      .join('');
+      .join(''));
+    let baseline = Object.values(data[key[0]][key[1]]).map(key=>{
+      let browsers = Object.keys(key);
+      if (legacy) browsers = browsers.filter(browser=>!!data.legacy.includes(browser));
+      return browsers.map(browser=>isBaseline(key[browser].split('-')[1]||'99999999', browser)?key[browser].split('-')[0]:'n');
+    }).flat(Infinity);
+    document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div>
+  ${(baseline.indexOf('f')<0||baseline.indexOf('p')<0)?(baseline.indexOf('p')<0?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>'):'<span style="color:var(--red)">⨉ No baseline support</span>'}
+</div>`);
   }
   if (!data || Number(localStorage.getItem('support-expire'))<Date.now()) {
     fetch('/support.json')
@@ -31,7 +48,7 @@
       .then(res=>{
         data = res;
         localStorage.setItem('support-data', res);
-        localStorage.setItem('support-expire', Date.now()+(24*60*60*1000)); // 1 Day
+        localStorage.setItem('support-expire', Date.now()+(24*60*60*1000)); /* 1 Day */
         loadTable();
       });
   } else {
