@@ -1,5 +1,3 @@
----
----
 <table id="support-table" legacy="{{ include.legacy }}">
   <tr>
     <th>&nbsp;</th>
@@ -28,17 +26,17 @@
       return true;
     };
     document.getElementById('support-table').insertAdjacentHTML('beforeend', Object.keys(data[key[0]][key[1]])
-      .map(key=>`<tr>
-  <td>${key}</td>
-  ${Object.keys(data[key[0]][key[1]][key]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)?' legacy':''}>${support(data[key[0]][key[1]][key][browser])}</td>`).join('')}
+      .map(feat=>`<tr>
+  <td>${feat}</td>
+  ${Object.keys(data[key[0]][key[1]][feat]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)?' legacy':''}>${support(data[key[0]][key[1]][feat][browser])}</td>`).join('')}
 </tr>`)
       .join(''));
-    let baseline = Object.values(data[key[0]][key[1]]).map(key=>{
-      let browsers = Object.keys(key);
+    let baseline = Object.values(data[key[0]][key[1]]).map(feat=>{
+      let browsers = Object.keys(feat);
       if (legacy) browsers = browsers.filter(browser=>!!data.legacy.includes(browser));
-      return browsers.map(browser=>isBaseline(key[browser].split('-')[1]||'99999999', browser)?key[browser].split('-')[0]:'n');
+      return browsers.map(browser=>isBaseline(feat[browser].split('-')[1]||'99999999', browser)?feat[browser].split('-')[0]:'n');
     }).flat(Infinity);
-    document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div>
+    document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div class="baseline">
   ${(baseline.indexOf('f')<0||baseline.indexOf('p')<0)?(baseline.indexOf('p')<0?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>'):'<span style="color:var(--red)">⨉ No baseline support</span>'}
 </div>`);
   }

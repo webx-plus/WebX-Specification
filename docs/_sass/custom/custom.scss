@@ -39,23 +39,29 @@ span[vc] {
 }
 
 /* Support */
-#support td [full] {
+.baseline {
+  text-align: center;
+  padding: 5px;
+  border-bottom: 2px solid rgba(68, 67, 77, 0.5);
+  background-color: #302d3688;
+}
+#support-table td [full] {
   --content: "✓ ";
   color: var(--green);
 }
-#support td [partial] {
+#support-table td [partial] {
   --content: "✱ ";
   color: var(--yellow);
 }
-#support td [none] {
+#support-table td [none] {
   --content: "⨉ ";
   color: var(--red);
 }
-#support td *::before {
+#support-table td *::before {
   content: var(--content, "⨉ ");
 }
 
-#support[legacy="false"] [legacy] {
+#support-table[legacy="false"] [legacy] {
   display: none;
 }
 
