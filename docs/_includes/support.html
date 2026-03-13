@@ -37,7 +37,7 @@
       return browsers.map(browser=>isBaseline(feat[browser].split('-')[1]||'99999999', browser)?feat[browser].split('-')[0]:'n');
     }).flat(Infinity);
     document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div class="baseline">
-  ${(baseline.indexOf('f')<0||baseline.indexOf('p')<0)?((baseline.indexOf('n')<0)?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>'):'<span style="color:var(--red)">⨉ No baseline support</span>'}
+  ${(baseline.indexOf('f')<0&&baseline.indexOf('p')<0)?'<span style="color:var(--red)">⨉ No baseline support</span>':((baseline.indexOf('n')<0&&baseline.indexOf('p')<0)?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>')}
 </div>`);
   }
   if (!data || Number(localStorage.getItem('support-expire'))<Date.now() || !JSON.parse(data)[key[0]] || !JSON.parse(data)[key[0]][key[1]]) {
