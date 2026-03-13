@@ -34,19 +34,19 @@ span[vc] {
 }
 
 /* Support */
-td span[full] {
+#support td [full] {
   --content: "✓ ";
   color: #00d061;
 }
-td span[partial] {
+#support td [partial] {
   --content: "✱ ";
   color: #e3b935;
 }
-td span[none] {
+#support td [none] {
   --content: "⨉ ";
   color: #f35242;
 }
-td span:not([vc])::before {
+#support td *::before {
   content: var(--content, "⨉ ");
 }
 

@@ -1,0 +1,37 @@
+<table id="support" legacy="{{ include.legacy }}">
+  <tr>
+    <th>&nbsp;</th>
+    <th style="text-align: center" legacy>Napture</th>
+    <th style="text-align: center" legacy>Bussinga</th>
+    <th style="text-align: center">WXV Core</th>
+  </tr>
+</table>
+<script>
+  let data = localStorage.getItem('support-data');
+  function loadTable() {
+    data = JSON.parse(data);
+    let key = '{{ include.table }}'.split('/');
+    let support = (value)=>{
+      let type = value.split('-')[0];
+      return `<${type==='p'?'details><summary':'span'} ${{n:'none',p:'partial',f:'full'}[type]}>${type==='n'?'None':value.split('-')[1]}</${type==='p'?`summary>${value.split('-')[2]}</details>`:'span'}>`;
+    };
+    document.getElementById('support').innerHTML += Object.keys(data[key[0]][key[1]])
+      .map(key=>`<tr>
+  <td>${key}</td>
+  ${Object.keys(data[key[0]][key[1]][key]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)}>${support(data[key[0]][key[1]][key][browser])}</td>`).join('')}
+</tr>`)
+      .join('');
+  }
+  if (!data || Number(localStorage.getItem('support-expire'))>Date.now()) {
+    fetch('/support.json')
+      .then(res=>res.text())
+      .then(res=>{
+        data = res;
+        localStorage.getItem('support-data', res);
+        localStorage.getItem('support-expire', Date.now()+(24*60*60*1000)); // 1 Day
+        loadTable();
+      });
+  } else {
+    loadTable();
+  }
+</script>

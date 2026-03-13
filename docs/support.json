@@ -1,0 +1,25 @@
+{
+  "$": "syntax: n (no support), f-V (full support, V is version), p-V-R (partial support, V is version, R is reason)",
+  "baseline": {
+    "napture": "1.0.0",
+    "bussinga": "0.0.1",
+    "wxv": "3"
+  },
+  "legacy": ["napture", "bussinga"],
+  "htmlpp": {
+    "a": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-3"
+      }
+    },
+    "audio": {
+      "supported": {
+        "napture": "n",
+        "bussinga": "p-0.0.1-Doesn't correctly handle src",
+        "wxv": "f-3"
+      }
+    }
+  }
+}
