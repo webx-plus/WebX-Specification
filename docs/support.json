@@ -213,5 +213,98 @@
         "wxv": "f-1"
       }
     }
+  },
+  "css325": {
+    "dt-color": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "dt-size": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-background-color": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-color": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-height": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-margin-side": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-margin": {
+      "supported": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-padding-side": {
+      "supported": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-padding": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-width": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "u-hex-rgba": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "u-pt": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "u-px": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    }
   }
 }

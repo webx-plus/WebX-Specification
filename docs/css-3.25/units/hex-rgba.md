@@ -22,6 +22,4 @@ The 4th or 7th and 8th digits represent alpha, if not present it should be the s
 
 ## Support
 
-|           | Napture                  | Bussinga                 | WXV Core            |
-| --------- | :----------------------: | :----------------------: | :-----------------: |
-| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="css325/u-hex-rgba" legacy="true" %}

@@ -20,6 +20,4 @@ Value must be of type [\<size>](../data-types/size.md).
 
 ## Support
 
-|           | Napture                | Bussinga                 | WXV Core            |
-| --------- | :--------------------: | :----------------------: | :-----------------: |
-| supported | <span none>None</span> | <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="css325/p-margin" legacy="true" %}

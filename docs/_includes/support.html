@@ -10,9 +10,9 @@
   let data = localStorage.getItem('support-data');
   const typeToParam = { n: 'none', p: 'partial', f: 'full' };
   const legacy = {{ include.legacy }};
+  const key = '{{ include.table }}'.split('/');
   function loadTable() {
     data = JSON.parse(data);
-    let key = '{{ include.table }}'.split('/');
     let support = (value)=>{
       let type = value.split('-')[0];
       return `<${type==='p'?'details><summary':'span'} ${typeToParam[type]}>${type==='n'?'None':value.split('-')[1]}</${type==='p'?`summary>${value.split('-')[2]}</details`:'span'}>`;
@@ -37,10 +37,10 @@
       return browsers.map(browser=>isBaseline(feat[browser].split('-')[1]||'99999999', browser)?feat[browser].split('-')[0]:'n');
     }).flat(Infinity);
     document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div class="baseline">
-  ${(baseline.indexOf('f')<0||baseline.indexOf('p')<0)?(baseline.indexOf('p')<0?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>'):'<span style="color:var(--red)">⨉ No baseline support</span>'}
+  ${(baseline.indexOf('f')<0||baseline.indexOf('p')<0)?((baseline.indexOf('n')<0)?'<span style="color:var(--green)">✓ Full baseline support</span>':'<span style="color:var(--yellow)">✱ Partial support across baseline</span>'):'<span style="color:var(--red)">⨉ No baseline support</span>'}
 </div>`);
   }
-  if (!data || Number(localStorage.getItem('support-expire'))<Date.now()) {
+  if (!data || !data[key[0]][key[1]] || Number(localStorage.getItem('support-expire'))<Date.now()) {
     fetch('/support.json')
       .then(res=>res.text())
       .then(res=>{

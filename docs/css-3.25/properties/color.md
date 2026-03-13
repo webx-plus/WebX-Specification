@@ -20,6 +20,4 @@ Value must be of type [\<color>](../data-types/size.md).
 
 ## Support
 
-|           | Napture                  | Bussinga                 | WXV Core            |
-| --------- | :----------------------: | :----------------------: | :-----------------: |
-| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="css325/p-color" legacy="true" %}
