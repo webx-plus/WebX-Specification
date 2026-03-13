@@ -399,8 +399,8 @@
       },
       "set_contents": {
         "napture": "f-1.0.0",
-        "bussinga": "p-0.0.1-Bussinga will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)",
-        "wxv": "p-1-Bussinga will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)"
+        "bussinga": "p-0.0.1-Bussinga will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)",
+        "wxv": "p-1-Bussinga will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)"
       },
       "get_content": {
         "napture": "f-1.0.0",
@@ -409,8 +409,8 @@
       },
       "set_content": {
         "napture": "f-1.0.0",
-        "bussinga": "p-0.0.1-Bussinga mode will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)",
-        "wxv": "p-1-Bussinga mode will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)"
+        "bussinga": "p-0.0.1-Bussinga mode will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)",
+        "wxv": "p-1-Bussinga mode will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)"
       },
       "get_href": {
         "napture": "f-1.0.0",
