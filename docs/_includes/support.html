@@ -1,3 +1,5 @@
+---
+---
 <table id="support" legacy="{{ include.legacy }}">
   <tr>
     <th>&nbsp;</th>
@@ -18,17 +20,17 @@
     document.getElementById('support').innerHTML += Object.keys(data[key[0]][key[1]])
       .map(key=>`<tr>
   <td>${key}</td>
-  ${Object.keys(data[key[0]][key[1]][key]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)}>${support(data[key[0]][key[1]][key][browser])}</td>`).join('')}
+  ${Object.keys(data[key[0]][key[1]][key]).map(browser=>`<td style="text-align:center"${data.legacy.includes(browser)?' legacy':''}>${support(data[key[0]][key[1]][key][browser])}</td>`).join('')}
 </tr>`)
       .join('');
   }
-  if (!data || Number(localStorage.getItem('support-expire'))>Date.now()) {
+  if (!data || Number(localStorage.getItem('support-expire'))<Date.now()) {
     fetch('/support.json')
       .then(res=>res.text())
       .then(res=>{
         data = res;
-        localStorage.getItem('support-data', res);
-        localStorage.getItem('support-expire', Date.now()+(24*60*60*1000)); // 1 Day
+        localStorage.setItem('support-data', res);
+        localStorage.setItem('support-expire', Date.now()+(24*60*60*1000)); // 1 Day
         loadTable();
       });
   } else {

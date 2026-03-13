@@ -50,6 +50,10 @@ span[vc] {
   content: var(--content, "⨉ ");
 }
 
+#support[legacy="false"] [legacy] {
+  display: none;
+}
+
 /* Callouts */
 p.note, blockquote.note, p.deprecated, blockquote.deprecated {
   width: fit-content;
