@@ -24,7 +24,4 @@ No return.
 
 ## Support
 
-|       | Napture                 | Bussinga                 | WXV Core            |
-| ----- | :---------------------: | :----------------------: | :-----------------: |
-| print | <span full>v1.0.0</span>| <span full>v0.0.1</span> | <span full>1</span> |
-| text  | <span full>v1.0.0</span>| <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="lua-legacy/print" legacy="true" %}

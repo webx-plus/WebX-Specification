@@ -306,5 +306,163 @@
         "wxv": "f-1"
       }
     }
-  }
+  },
+  "lua-legacy": {
+    "fetch": {
+      "fetch": {
+        "napture": "f-1.0.0",
+        "bussinga": "p-0.0.1-Some issues around async present",
+        "wxv": "f-1"
+      },
+      "url": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "method": {
+        "napture": "p-1.0.0-Only GET, POST, PUT, DELETE are supported",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "headers": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "body": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "get": {
+      "get": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "name": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "all": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "print": {
+      "print": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "text": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "window": {
+      "window": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "browser": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "location": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "query": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "element": {
+      "element": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "get_contents": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "set_contents": {
+        "napture": "f-1.0.0",
+        "bussinga": "p-0.0.1-Bussinga will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)",
+        "wxv": "p-1-Bussinga will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)"
+      },
+      "get_content": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "set_content": {
+        "napture": "f-1.0.0",
+        "bussinga": "p-0.0.1-Bussinga mode will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)",
+        "wxv": "p-1-Bussinga mode will set HTML instead of text (This is <a href=\"https://github.com/inventionpro/Bussinga-attack\">unsafe</a>)"
+      },
+      "get_href": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "set_href": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "get_source": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "set_source": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "get_opacity": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "get_css_name": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "set_value": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "on_click": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "on_input": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "on_submit": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    }
+  },
+  "lua-2": {}
 }
