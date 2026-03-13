@@ -21,7 +21,7 @@ Self-closing.
 
 ## Attributes
 
-- HREF - the URL to link to
+- href - the URL to link to
 
 ### HREF
 
@@ -29,6 +29,4 @@ The first link will be the favicon unless its a [CSS 3.25](../css-3.25/index.md)
 
 ## Support
 
-|           | Napture                  | Bussinga                 | WXV Core            |
-| --------- | :----------------------: | :----------------------: | :-----------------: |
-| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="htmlpp/link" legacy="true" %}

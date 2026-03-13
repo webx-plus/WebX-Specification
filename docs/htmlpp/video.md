@@ -24,10 +24,8 @@ Autoplay is not a feature with plans of being supported because of miss use on t
 
 ## Attributes
 
-- Src - the source of the video
+- src - the source of the video
 
 ## Support
 
-|           | Napture                | Bussinga                    | WXV Core            |
-| --------- | :--------------------: | :-------------------------: | :-----------------: |
-| supported | <span none>None</span> | <span partial>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="htmlpp/video" legacy="true" %}

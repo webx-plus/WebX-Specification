@@ -15,7 +15,7 @@
     let key = '{{ include.table }}'.split('/');
     let support = (value)=>{
       let type = value.split('-')[0];
-      return `<${type==='p'?'details><summary':'span'} ${typeToParam[type]}>${type==='n'?'None':value.split('-')[1]}</${type==='p'?`summary>${value.split('-')[2]}</details>`:'span'}>`;
+      return `<${type==='p'?'details><summary':'span'} ${typeToParam[type]}>${type==='n'?'None':value.split('-')[1]}</${type==='p'?`summary>${value.split('-')[2]}</details`:'span'}>`;
     };
     let isBaseline = (ver, browser)=>{
       ver = ver.split('.');

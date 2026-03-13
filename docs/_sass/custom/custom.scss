@@ -57,8 +57,15 @@ span[vc] {
   --content: "⨉ ";
   color: var(--red);
 }
-#support-table td *::before {
+#support-table td span::before, #support-table td summary::before {
   content: var(--content, "⨉ ");
+}
+#support-table summary {
+  list-style: none;
+}
+#support-table summary::after {
+  content: " ...";
+  color: white;
 }
 
 #support-table[legacy="false"] [legacy] {

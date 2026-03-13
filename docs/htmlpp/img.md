@@ -20,12 +20,8 @@ Self-closing.
 
 ## Attributes
 
-- Src - the source of the image
+- src - the source of the image
 
 ## Support
 
-|           | Napture                    | Bussinga                 | WXV Core            |
-| --------- | :------------------------: | :----------------------: | :-----------------: |
-| supported | <span full>v1.0.0 *</span> | <span full>v0.0.1</span> | <span full>1</span> |
-
-*Napture has issues with loading images on windows
+{% include support.html table="htmlpp/img" legacy="true" %}

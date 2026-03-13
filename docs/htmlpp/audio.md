@@ -24,7 +24,7 @@ Autoplay is not a feature with plans of being supported because of miss use on t
 
 ## Attributes
 
-- Src - the source of the audio
+- src - the source of the audio
 
 ## Support
 

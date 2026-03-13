@@ -30,7 +30,7 @@ An anchor or link in the site.
 
 ## Attributes
 
-- HREF - link to another website or page
+- href - link to another website or page
 
 ## Support
 

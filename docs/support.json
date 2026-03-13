@@ -11,14 +11,206 @@
       "supported": {
         "napture": "f-1.0.0",
         "bussinga": "f-0.0.1",
-        "wxv": "f-3"
+        "wxv": "f-1"
       }
     },
     "audio": {
       "supported": {
         "napture": "n",
         "bussinga": "p-0.0.1-Doesn't correctly handle src",
+        "wxv": "f-1"
+      }
+    },
+    "body": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "button": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "disabled": {
+        "napture": "n",
+        "bussinga": "n",
         "wxv": "f-3"
+      }
+    },
+    "div": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "h1-6": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "head": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "hr": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "html": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "img": {
+      "supported": {
+        "napture": "p-1.0.0-Can't load images on Windows",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "input": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "placeholder": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "type": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "disabled": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "li": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "link": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "meta": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "ol": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "option": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "disabled": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "p": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "script": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "version": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "select": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "disabled": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-3"
+      }
+    },
+    "textarea": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      },
+      "placeholder": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "disabled": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "title": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "ul": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "video": {
+      "supported": {
+        "napture": "n",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
       }
     }
   }

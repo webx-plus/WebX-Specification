@@ -21,15 +21,10 @@ Self-closing.
 
 ## Attributes
 
-- Placeholder - placeholder text
-- Type - the type of input
-- Disabled - whether the input can be written to
+- placeholder - placeholder text
+- type - the type of input
+- disabled - whether the input can be written to
 
 ## Support
 
-|             | Napture                  | Bussinga                 | WXV Core            |
-| ----------- | :----------------------: | :----------------------: | :-----------------: |
-| supported   | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
-| placeholder | <span none>None</span>   | <span none>None</span>   | <span full>1</span> |
-| type        | <span none>None</span>   | <span full>v0.0.1</span> | <span full>1</span> |
-| disabled    | <span none>None</span>   | <span none>None</span>   | <span full>1</span> |
+{% include support.html table="htmlpp/input" legacy="true" %}

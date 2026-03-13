@@ -21,8 +21,8 @@ Self-closing.
 
 ## Attributes
 
-- Name - the name of the metadata to target
-- Content - the content to assign it
+- name - the name of the metadata to target
+- content - the content to assign it
 
 ### Name
 
@@ -35,6 +35,4 @@ Other names can be used but will be ignored by most programs/browsers.
 
 ## Support
 
-|           | Napture                  | Bussinga                 | WXV Core            |
-| --------- | :----------------------: | :----------------------: | :-----------------: |
-| supported | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
+{% include support.html table="htmlpp/meta" legacy="true" %}

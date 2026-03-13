@@ -20,13 +20,9 @@ Self-closing.
 
 ## Attributes
 
-- Placeholder - placeholder text
-- Disabled - whether the textarea can be written to
+- placeholder - placeholder text
+- disabled - whether the textarea can be written to
 
 ## Support
 
-|             | Napture                  | Bussinga                 | WXV Core            |
-| ----------- | :----------------------: | :----------------------: | :-----------------: |
-| supported   | <span full>v1.0.0</span> | <span full>v0.0.1</span> | <span full>1</span> |
-| placeholder | <span none>None</span>   | <span none>None</span>   | <span full>1</span> |
-| disabled    | <span none>None</span>   | <span none>None</span>   | <span full>1</span> |
+{% include support.html table="htmlpp/textarea" legacy="true" %}
