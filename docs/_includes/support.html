@@ -33,7 +33,7 @@
       .join(''));
     let baseline = Object.values(data[key[0]][key[1]]).map(feat=>{
       let browsers = Object.keys(feat);
-      if (legacy) browsers = browsers.filter(browser=>!!data.legacy.includes(browser));
+      if (!legacy) browsers = browsers.filter(browser=>!data.legacy.includes(browser));
       return browsers.map(browser=>isBaseline(feat[browser].split('-')[1]||'99999999', browser)?feat[browser].split('-')[0]:'n');
     }).flat(Infinity);
     document.getElementById('support-table').insertAdjacentHTML('beforebegin', `<div class="baseline">
