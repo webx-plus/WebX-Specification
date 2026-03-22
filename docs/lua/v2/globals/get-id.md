@@ -21,7 +21,4 @@ An [Element](../element.md)
 
 ## Support
 
-|        | WXV Core            |
-| ------ | :-----------------: |
-| get_id | <span full>1</span> |
-| id     | <span full>1</span> |
+{% include support.html table="lua-2/get_id" %}

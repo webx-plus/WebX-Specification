@@ -46,16 +46,4 @@ Events:
 
 ## Support
 
-|                    | WXV Core            |
-| ------------------ | :-----------------: |
-| media_context      | <span full>1</span> |
-| audio/video key    | <span full>1</span> |
-| lua media_context  | <span full>1</span> |
-| paused             | <span full>1</span> |
-| duration           | <span full>1</span> |
-| current_time       | <span full>1</span> |
-| volume             | <span full>1</span> |
-| playback_rate      | <span full>1</span> |
-| play               | <span full>1</span> |
-| pause              | <span full>1</span> |
-| on_playback_change | <span full>1</span> |
+{% include support.html table="lua-2/media_context" %}

@@ -29,15 +29,4 @@ Events:
 
 ## Support
 
-|               | WXV Core            |
-| ------------- | :-----------------: |
-| element       | <span full>1</span> |
-| content       | <span full>1</span> |
-| tag           | <span full>3</span> |
-| media_context | <span full>1</span> |
-| remove        | <span full>1</span> |
-| on_click      | <span full>1</span> |
-| on_input      | <span full>1</span> |
-| on_keypress   | <span full>1</span> |
-| on_load       | <span full>1</span> |
-| on_submit     | <span full>1</span> |
+{% include support.html table="lua-2/element" %}

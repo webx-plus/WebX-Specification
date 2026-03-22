@@ -37,10 +37,4 @@ A table with various values about the response.
 
 ## Support
 
-|         | WXV Core            |
-| ------- | :-----------------: |
-| fetch   | <span full>1</span> |
-| url     | <span full>1</span> |
-| method  | <span full>1</span> |
-| headers | <span full>1</span> |
-| body    | <span full>1</span> |
+{% include support.html table="lua-2/fetch" %}

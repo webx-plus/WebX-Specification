@@ -464,5 +464,293 @@
       }
     }
   },
-  "lua-2": {}
+  "lua-2": {
+    "browser": {
+      "browser": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "name": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "agent": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "version": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "api": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "storage": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      }
+    },
+    "fetch": {
+      "fetch": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "url": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "method": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "headers": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "body": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "get_id": {
+      "get_id": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "id": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "global": {
+      "global": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "location": {
+      "location": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "href": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "domain": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "protocol": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "path": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "query": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "rawQuery": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "go": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "print": {
+      "print": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "text": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "printe": {
+      "printe": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "text": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "printw": {
+      "printw": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "text": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "element": {
+      "element": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "content": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "tag": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-3"
+      },
+      "media_context": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "remove": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_click": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_input": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_keypress": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_load": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_submit": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "media_context": {
+      "media_context-element": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "media_context-lua": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "paused": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "duration": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "current_time": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "volume": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "playback_rate": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "play": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "pause": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      },
+      "on_playback_change": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-1"
+      }
+    },
+    "storage": {
+      "storage": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      },
+      "get": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      },
+      "set": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      },
+      "remove": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      },
+      "all": {
+        "napture": "n",
+        "bussinga": "n",
+        "wxv": "f-2"
+      }
+    }
+  }
 }

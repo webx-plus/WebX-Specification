@@ -19,10 +19,4 @@ Functions:
 
 ## Support
 
-|         | WXV Core            |
-| ------- | :-----------------: |
-| storage | <span full>2</span> |
-| get     | <span full>2</span> |
-| set     | <span full>2</span> |
-| remove  | <span full>2</span> |
-| all     | <span full>2</span> |
+{% include support.html table="lua-2/storage" %}

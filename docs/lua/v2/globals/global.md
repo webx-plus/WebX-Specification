@@ -20,6 +20,4 @@ Empty
 
 ## Support
 
-|         | WXV Core            |
-| ------- | :-----------------: |
-| global  | <span full>1</span> |
+{% include support.html table="lua-2/global" %}

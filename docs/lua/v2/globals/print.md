@@ -21,7 +21,4 @@ No return.
 
 ## Support
 
-|       | WXV Core            |
-| ----- | :-----------------: |
-| print | <span full>1</span> |
-| text  | <span full>1</span> |
+{% include support.html table="lua-2/print" %}

@@ -35,10 +35,4 @@ Contents:
 
 ## Support
 
-|         | WXV Core            |
-| ------- | :-----------------: |
-| name    | <span full>1</span> |
-| agent   | <span full>1</span> |
-| version | <span full>1</span> |
-| api     | <span full>1</span> |
-| storage | <span full>2</span> |
+{% include support.html table="lua-2/browser" %}

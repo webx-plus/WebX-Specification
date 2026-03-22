@@ -39,13 +39,4 @@ The query is a table with key being the param name and value its value. Some imp
 
 ## Support
 
-|          | WXV Core            |
-| -------- | :-----------------: |
-| location | <span full>1</span> |
-| href     | <span full>1</span> |
-| domain   | <span full>1</span> |
-| protocol | <span full>1</span> |
-| path     | <span full>1</span> |
-| query    | <span full>1</span> |
-| rawQuery | <span full>1</span> |
-| go       | <span full>1</span> |
+{% include support.html table="lua-2/location" %}
