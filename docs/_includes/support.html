@@ -9,7 +9,7 @@
 <script>
   let data = localStorage.getItem('support-data');
   const typeToParam = { n: 'none', p: 'partial', f: 'full' };
-  const legacy = {{ include.legacy }};
+  const legacy = {{ include.legacy | default: "false" }};
   const key = '{{ include.table }}'.split('/');
   function loadTable() {
     data = JSON.parse(data);
