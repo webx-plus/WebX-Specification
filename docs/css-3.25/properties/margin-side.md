@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Margin-\[side]
 
-Defineds a margin or separation for a specific side applied to this element.
+Defines the margin/separation for a specific side on an element.
 
 ```css
 margin-[side]: <size>;
@@ -16,7 +16,7 @@ margin-top: 12px;
 
 `margin-[side]: <size>;`
 
-Side can be top, right, bottom or left.\
+Side must be one of: top, right, bottom, or left.\
 Value must be of type [\<size>](../data-types/size.md).
 
 ## Support
