@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Padding-\[side]
 
-Defineds a padding for a specific side applied to this element.
+Defines the padding/inner separation for a specific side applied to an element.
 
 ```css
 padding-[side]: <size>;
@@ -16,7 +16,7 @@ padding-top: 12px;
 
 `padding-[side]: <size>;`
 
-Side can be top, right, bottom or left.\
+Side must be one of: top, right, bottom, or left.\
 Value must be of type [\<size>](../data-types/size.md).
 
 ## Support
