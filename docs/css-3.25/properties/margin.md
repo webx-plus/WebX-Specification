@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Margin
 
-Defineds a margin or separation applied to a element.
+Defines the margin/separation applied to an element on all sides.
 
 ```css
 margin: <size>;

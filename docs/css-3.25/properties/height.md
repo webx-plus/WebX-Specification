@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Height
 
-Defineds the vertical size of a element.
+Defines the vertical size of an element.
 
 ```css
 height: <size>;

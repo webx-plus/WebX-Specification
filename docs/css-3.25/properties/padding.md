@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Padding
 
-Defineds a padding applied to a element.
+Defines the padding/inner separation applied to an element on all sides.
 
 ```css
 padding: <size>;

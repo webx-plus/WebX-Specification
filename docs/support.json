@@ -243,7 +243,21 @@
         "wxv": "f-1"
       }
     },
+    "p-font-size": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
     "p-height": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "f-0.0.1",
+        "wxv": "f-1"
+      }
+    },
+    "p-line-height": {
       "supported": {
         "napture": "f-1.0.0",
         "bussinga": "f-0.0.1",

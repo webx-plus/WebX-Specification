@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Width
 
-Defineds the horizontal size of a element.
+Defines the horizontal size of an element.
 
 ```css
 width: <size>;
