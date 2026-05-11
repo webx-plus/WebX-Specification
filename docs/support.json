@@ -403,12 +403,12 @@
         "wxv": "p-1-Bussinga mode will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)"
       },
       "get_content": {
-        "napture": "f-1.0.0",
+        "napture": "n",
         "bussinga": "f-0.0.1",
         "wxv": "f-1"
       },
       "set_content": {
-        "napture": "f-1.0.0",
+        "napture": "n",
         "bussinga": "p-0.0.1-Bussinga will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)",
         "wxv": "p-1-Bussinga mode will set HTML instead of text (This is <a href='https://github.com/inventionpro/Bussinga-attack'>unsafe</a>)"
       },
@@ -438,7 +438,7 @@
         "wxv": "f-1"
       },
       "get_css_name": {
-        "napture": "n",
+        "napture": "f-1.0.0",
         "bussinga": "f-0.0.1",
         "wxv": "f-1"
       },

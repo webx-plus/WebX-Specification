@@ -21,8 +21,12 @@ get('links', true)
 
 ## Return
 
-If `all` set to false: [Element](../element.md)\
-If `all` set to true: array of [Element](../element.md)s
+If any matches found:\
+`all` set to false: [Element](../element.md)\
+`all` set to true: array of [Element](../element.md)s\
+If no matches found:\
+`all` set to false: nil\
+`all` set to true: empty array
 
 ## Support
 
