@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Background Color
 
-Defineds the background color of a element.
+Defines the color of the background on an element.
 
 ```css
 background-color: <color>;
@@ -16,7 +16,7 @@ background-color: #ff00ff;
 
 `background-color: <color>;`
 
-Value must be of type [\<color>](../data-types/size.md).
+Value must be of type [\<color>](../data-types/color.md).
 
 ## Support
 
