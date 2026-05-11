@@ -5,7 +5,7 @@ parent: Properties
 ---
 # Color
 
-Defineds the color of text in a element and its descendants.
+Defines the color of text on an element.
 
 ```css
 color: <color>;
@@ -16,7 +16,7 @@ color: #ff00ff;
 
 `color: <color>;`
 
-Value must be of type [\<color>](../data-types/size.md).
+Value must be of type [\<color>](../data-types/color.md).
 
 ## Support
 
