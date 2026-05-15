@@ -10,6 +10,8 @@ CSS properties that can be used to define apearence of elements and their childr
 ## Properties
 
 - [background-color](background-color.md)
+- [border-color](border-color.md)
+- [border-size](border-size.md)
 - [color](color.md)
 - [font-size](font-size.md)
 - [height](height.md)
