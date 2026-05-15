@@ -1,6 +1,6 @@
 ---
 title: Border Color
-description: CSS background color property
+description: CSS border color property
 parent: Properties
 ---
 # Border Color
