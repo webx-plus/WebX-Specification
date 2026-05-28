@@ -257,6 +257,13 @@
         "wxv": "f-1"
       }
     },
+    "p-direction": {
+      "supported": {
+        "napture": "f-1.0.0",
+        "bussinga": "p-0.0.1-Doesn't correctly apply flex styling by default",
+        "wxv": "f-1"
+      }
+    },
     "p-font-size": {
       "supported": {
         "napture": "f-1.0.0",
