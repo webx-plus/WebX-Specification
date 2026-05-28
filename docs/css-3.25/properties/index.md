@@ -13,6 +13,7 @@ CSS properties that can be used to define apearence of elements and their childr
 - [border-color](border-color.md)
 - [border-size](border-size.md)
 - [color](color.md)
+- [direction](direction.md)
 - [font-size](font-size.md)
 - [height](height.md)
 - [line-height](line-height.md)
