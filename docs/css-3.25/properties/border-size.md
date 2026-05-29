@@ -12,7 +12,7 @@ border-size: <size>;
 border-size: 12px;
 ```
 
-![Some text with a think background](../../media)
+![Some text with a thick border](../../media/border-size.png)
 
 ## Syntax
 
