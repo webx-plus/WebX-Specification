@@ -12,6 +12,8 @@ direction: <direction>;
 direction: row;
 ```
 
+![Two sets of text with different direction](../../media/direction.png)
+
 ## Syntax
 
 `direction: <direction>;`

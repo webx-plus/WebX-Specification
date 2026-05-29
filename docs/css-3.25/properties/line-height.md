@@ -12,6 +12,8 @@ line-height: <size>;
 line-height: 12px;
 ```
 
+![Two sets of text with different line height](../../media/line-height.png)
+
 ## Syntax
 
 `line-height: <size>;`

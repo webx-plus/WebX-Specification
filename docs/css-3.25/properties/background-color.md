@@ -12,6 +12,8 @@ background-color: <color>;
 background-color: #ff00ff;
 ```
 
+![Some text with a pink background](../../media/bg-color.png)
+
 ## Syntax
 
 `background-color: <color>;`

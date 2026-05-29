@@ -12,6 +12,8 @@ font-size: <size>;
 font-size: 14pt;
 ```
 
+![Some text in three sizes](../../media/font-size.png)
+
 ## Syntax
 
 `font-size: <size>;`

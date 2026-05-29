@@ -12,6 +12,8 @@ border-size: <size>;
 border-size: 12px;
 ```
 
+![Some text with a think background](../../media)
+
 ## Syntax
 
 `border-size: <size>;`

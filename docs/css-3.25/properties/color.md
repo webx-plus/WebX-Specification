@@ -12,6 +12,8 @@ color: <color>;
 color: #ff00ff;
 ```
 
+![Some pink text](../../media/color.png)
+
 ## Syntax
 
 `color: <color>;`

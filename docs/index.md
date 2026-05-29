@@ -12,3 +12,4 @@ You can look at browsers [here](browsers/index.md) and about browser development
 - [HTML++ spec](htmlpp/index.md)
 - [CSS 3.25 spec](css-3.25/index.md)
 - [Lua spec](lua/index.md)
+- [DNS](dns/index.md)

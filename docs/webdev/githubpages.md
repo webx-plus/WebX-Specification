@@ -10,14 +10,14 @@ How to setup GitHub Pages.
 ## 1. Go to Settings
 
 Click the settings button\
-![GitHub repo button settings highlighted](settings.png)\
+![GitHub repo button settings highlighted](../media/settings.png)\
 then click the "Pages" section\
-![Settings pages section](pages.png)
+![Settings pages section](../media/pages.png)
 
 ## 2. Set up
 
 Set the source of the page, in this case the main branch\
-![Click the text none, change to main and finally save](setup.png)
+![Click the text none, change to main and finally save](../media/setup.png)
 
 ## 3. Skip jekyll (Optional)
 

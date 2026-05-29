@@ -12,6 +12,8 @@ border-color: <color>;
 border-color: #ff00ff;
 ```
 
+![Some text with a pink border](../../media/border-color.png)
+
 ## Syntax
 
 `border-color: <color>;`
