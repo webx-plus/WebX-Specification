@@ -11,6 +11,7 @@ CSS properties that can be used to define apearence of elements and their childr
 
 - [background-color](background-color.md)
 - [border-color](border-color.md)
+- [border-radius](border-radius.md)
 - [border-size](border-size.md)
 - [color](color.md)
 - [direction](direction.md)
